@@ -66,5 +66,35 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Quest Diagnostics",
+    "runAt": "2026-09-24T20:46:31.964Z",
+    "source": "daily",
+    "headline": "Quest Diagnostics launching Apple partnership for in-app lab orders — major patient-facing digital expansion requiring secure transactional email and marketing infrastructure",
+    "signals": [
+      {
+        "category": "Apple partnership & consumer digital expansion",
+        "updateType": "expansion",
+        "play": "email_api",
+        "score": 2,
+        "summary": "Quest Diagnostics is partnering with Apple to enable lab orders directly through Apple's health app — a significant patient-facing digital initiative that will generate high-volume transactional communications (order confirmations, results notifications, appointment reminders). This requires HIPAA-compliant transactional email infrastructure at scale.",
+        "suggestedAction": "Reach out to Quest's digital health or product team this week: 'We saw the Apple partnership launch — congratulations. As patient volumes flow through the app, you'll need HIPAA-compliant transactional email for results, appointments, and marketing. Paubox Email API handles that at scale with zero-trust encryption. Can we schedule a brief technical fit discussion?'",
+        "sourceName": "Healthcare Brew",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lYdGp0RUp4VXE0TFpfSmYwcmVNSDVrbTR3Z1hqdkdSVnBKbnFwU2lTNDNGQUlCZ3NNUFNxcjFmM25TdklWeWU1QWdpcm9fRFJkTERkeV92ZHZpZ0UzVlRhb1IwY0xPaVByaFBGQjdXS3FlM0VoS2JQVENVa0prNGRkaS1kMWpscElvYWtaWEk2SlIyUEtz?oc=5",
+        "publishedAt": "2026-09-22T21:58:42.000Z"
+      },
+      {
+        "category": "Consumer testing volume surge & patient engagement",
+        "updateType": "expansion",
+        "play": "marketing",
+        "score": 1,
+        "summary": "Quest reports consumer testing volumes surging and growth outpacing targets. This signals increased direct-to-consumer engagement and likely expanded patient communication programs, creating demand for HIPAA-compliant patient marketing campaigns.",
+        "suggestedAction": "Follow up with marketing leadership on the consumer testing growth: 'Your consumer volumes are accelerating — that means more patient touchpoints. Paubox Marketing lets you send compliant promotional campaigns and educational content directly to patients. Would a demo of patient engagement templates be useful?'",
+        "sourceName": "TradingView",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHpfaThnNEIyOTZXRjZJdWFnbWRLQTYyamZVcFhWYnlOZVBqU1RsS1hialY4WWk2YWdoV3h4eHFHRU00bTdRN3E0OGxYSk1RVE1nVVNLMlpqQlRlMTZwSi1TYjBDRzMyMk1pLUtCSm9BcFBUVm9kZWp2S3lKOUJ3Mm96dDF3S3U1U3FHX1hYQmVnSFVRT2pidkZGTWFxUFkwUklmUGx6NHFNMVFEMlhEY0h2clBzbU0wYUdPemdQbTNiWk5Celp3ajFCZkdzdw?oc=5",
+        "publishedAt": "2026-09-21T14:02:10.000Z"
+      }
+    ]
   }
 ]

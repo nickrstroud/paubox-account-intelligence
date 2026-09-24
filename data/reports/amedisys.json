@@ -17,5 +17,24 @@
         "publishedAt": "2026-09-17T16:17:22.000Z"
       }
     ]
+  },
+  {
+    "company": "Amedisys",
+    "runAt": "2026-09-24T20:46:28.274Z",
+    "source": "daily",
+    "headline": "Amedisys market growth signal amid routine obituaries",
+    "signals": [
+      {
+        "category": "Market expansion",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Industry analysis forecasts Private Nursing Services market growth with Amedisys and Enhabit positioned as key players, suggesting sector momentum and potential client expansion.",
+        "suggestedAction": "Review Amedisys's recent geographic or service line expansions; identify if they're opening new locations or adding staff that would increase Paubox seat demand.",
+        "sourceName": "openPR.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFlKYnZGcHliUFNyQ0FmMHRzRWNXcUl3bTlLY3ZON25RYzQxNzljenBPOGlNOUdvVFgzYVNZQzhkenU4dGVkV2wxRG9yVWdXS1dxNy15dENpSHZwaXpraUZXcWtPQ2EySW9IS0gyMGctUXIxQUVyRklKOWt2UVFSUFNfM2ZtNUp5S3RxQXU1TWtVamtCQ0YxcXhzaUZ1d28?oc=5",
+        "publishedAt": "2026-09-23T05:56:10.000Z"
+      }
+    ]
   }
 ]
