@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Example Family Dental",
+    "website": "https://example.com/",
+    "segment": "dental",
+    "tier": "smb",
+    "newsQuery": "\"Example Family Dental\"",
+    "products": ["Email Suite"],
+    "arr": 4800,
+    "renewalDate": "2027-01-01"
+  }
+]

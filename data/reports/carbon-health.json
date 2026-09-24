@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Carbon Health",
+    "runAt": "2026-07-26T20:35:55.654Z",
+    "source": "backfill",
+    "headline": "Carbon Health faces regulatory settlement over corporate practice of medicine; compliance posture now under scrutiny",
+    "signals": [
+      {
+        "category": "Regulatory settlement - Corporate Practice of Medicine",
+        "updateType": "regulatory",
+        "play": "archiving",
+        "score": 1,
+        "summary": "Carbon Health reached a landmark settlement with California AG over corporate practice of medicine (CPOM) violations involving PC-MSO structures and clinic contracts. The settlement includes contract revisions and penalties, triggering broader state scrutiny of friendly-PC arrangements in healthcare.",
+        "suggestedAction": "Schedule a compliance posture review with Carbon Health's legal/compliance team. Position Email Archiving as a critical tool for regulatory defense: offer to discuss retention policies for physician employment contracts, billing records, and corporate governance communications to ensure audit-ready records.",
+        "sourceName": "Fierce Healthcare",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkVUMjFhbXFfMkdNZXBLLVBoSV95bG43OHRoSk8yTHNvZEdWQTdFUGhpSEFpV1RQT0FNYWt0RVNfSk5ISTM4cTdQZjZzWWxMQ0NoM04tcW9sWE1FbHdpbGZKeTF1SGMyb2MxckJlMFk5TjJGSklOR3Z0V3RpQ3ZlZGpseFZkQlFKdFJhdW51Qk1TV3R5S21IU3BEZXpQWHh2bjczMlVYdWNuRjBIVXp2d1Fn?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
+      }
+    ]
+  }
+]

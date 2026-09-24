@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Aspen Dental",
+    "website": "https://www.aspendental.com/",
+    "segment": "dental",
+    "tier": "enterprise",
+    "arr": 184000,
+    "renewalDate": "2026-12-15",
+    "products": [
+      "Email Suite"
+    ],
+    "newsQuery": "\"Aspen Dental\""
+  },
+  {
+    "name": "LifeStance Health",
+    "website": "https://lifestance.com/",
+    "segment": "behavioral_health",
+    "tier": "enterprise",
+    "arr": 142000,
+    "renewalDate": "2027-03-01",
+    "products": [
+      "Email Suite",
+      "Inbound Security"
+    ],
+    "newsQuery": "\"LifeStance Health\""
+  },
+  {
+    "name": "Talkspace",
+    "website": "https://www.talkspace.com/",
+    "tier": "mid_market",
+    "arr": 48000,
+    "renewalDate": "2027-06-30",
+    "products": [
+      "Email API"
+    ],
+    "segment": "digital_health",
+    "segmentInferred": true,
+    "newsQuery": "\"Talkspace\""
+  },
+  {
+    "name": "Oscar Health",
+    "website": "https://www.hioscar.com/",
+    "arr": 96000,
+    "renewalDate": "2027-01-20",
+    "products": [
+      "Email Suite"
+    ],
+    "segment": "payer",
+    "segmentInferred": true,
+    "tier": "enterprise",
+    "newsQuery": "\"Oscar Health\""
+  },
+  {
+    "name": "Quest Diagnostics",
+    "website": "https://www.questdiagnostics.com/",
+    "segment": "pharmacy_lab",
+    "tier": "enterprise",
+    "arr": 210000,
+    "renewalDate": "2027-08-01",
+    "products": [
+      "Email Suite",
+      "DLP"
+    ],
+    "newsQuery": "\"Quest Diagnostics\""
+  },
+  {
+    "name": "Amedisys",
+    "website": "https://www.amedisys.com/",
+    "segment": "post_acute",
+    "tier": "enterprise",
+    "arr": 88000,
+    "renewalDate": "2026-11-30",
+    "products": [
+      "Email Suite"
+    ],
+    "newsQuery": "\"Amedisys\""
+  },
+  {
+    "name": "Carbon Health",
+    "website": "https://carbonhealth.com/",
+    "tier": "mid_market",
+    "arr": 36000,
+    "renewalDate": "2027-02-14",
+    "products": [
+      "Email Suite",
+      "Marketing"
+    ],
+    "segment": "digital_health",
+    "segmentInferred": true,
+    "newsQuery": "\"Carbon Health\""
+  },
+  {
+    "name": "Heartland Dental",
+    "website": "https://heartland.com/",
+    "segment": "dental",
+    "tier": "enterprise",
+    "arr": 120000,
+    "renewalDate": "2027-05-10",
+    "products": [
+      "Email Suite"
+    ],
+    "newsQuery": "\"Heartland Dental\""
+  }
+]

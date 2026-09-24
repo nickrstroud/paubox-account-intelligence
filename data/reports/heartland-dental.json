@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Heartland Dental",
+    "runAt": "2026-08-25T20:35:55.654Z",
+    "source": "backfill",
+    "headline": "Heartland Dental expanding brand presence and leadership recognition; no immediate security or product expansion triggers",
+    "signals": [
+      {
+        "category": "CEO Recognition & Awards",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Heartland Dental CEO Pat Bauer received the 2026 Dental Titan Award for leadership and impact on doctor-led dentistry. Positive press and recognition of the organization's strategic direction.",
+        "suggestedAction": "Congratulate Pat Bauer on the award; position Paubox as a trusted partner supporting Heartland's growth and doctor-centric mission. Request a brief conversation to explore how our compliance and security tools align with their expansion strategy.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMHE5cGF1RWtxb194azZ4SFFabU9PXzVTcm9YZmN4WFJrbGF4TnQ4M2t6Q1AxcmpnNEdVNlNPSTBOOXVZZmliRTU1cC1OOVJRandDdElRVUt0N1M2U0F0c3hndWFTQkxQYW9TVHYxOHpscEI2S1Y1WW1sd0Q3dW1ncEhRRkVBYWlmbUFSOGNfQWJlV0NjS1VGMlZuaTZsa0pkXzNlX3NLZzkxU1ZzV0RaQjNIOGhXMVA5WjFLdDg1X25PMFJ4T2NQR3NPNXJNd3VZMUpDY2U5MGpFcE04U0lnQnRVY0g5dS1rbmhRNnYxVWJZblFrc1pXcGZxb0xlYUY3YkJ5bDd1UWc?oc=5",
+        "publishedAt": "2026-08-06T07:00:00.000Z"
+      },
+      {
+        "category": "Brand & Content Expansion",
+        "updateType": "brand",
+        "play": "none",
+        "score": 0,
+        "summary": "Heartland Dental launched 'Masters and Mentors' podcast and refreshed their website, indicating investment in thought leadership and digital presence.",
+        "suggestedAction": "Monitor for future patient-facing digital initiatives or marketing campaigns that may require HIPAA-compliant email marketing or forms.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdFlaY01FVWJHT01fNXFuem1DYU9lVDZKYkpQRGh4UnV2Y0R5el9fSUhHVVIwR0JUN1Z0SWNyZ0ppTWVOa3VMQm0tdzA0WVVaV3BqYlVhTld1SkZTNmtiOFJ2aElTT18wbGhpQVVGSVVUbTRnbGJzUlRkMUJtU0JkY3ppY3VteDlicFM1UHFQVWlxZFlKb0NyRTIzZG52c2cwMnAtbWNPaFhVWHlTNzZHUi1QaDIxY2VBM1d3NnEtYWlkdkhPSjBJckpueDlxcGN4bEgwamkza1hlbVJKMGFIM0dZTW5tdw?oc=5",
+        "publishedAt": "2026-07-27T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Heartland Dental",
+    "runAt": "2026-09-24T20:35:55.654Z",
+    "source": "backfill",
+    "headline": "Heartland Dental launching Conuity Care Coordination platform; investing in workforce development and digital patient engagement",
+    "signals": [
+      {
+        "category": "New care-coordination platform launch",
+        "updateType": "technology",
+        "play": "email_api",
+        "score": 1,
+        "summary": "Heartland Dental announced Conuity Care Coordination™, a new connected-care platform advancing patient journey coordination. This signals investment in patient-facing digital infrastructure and workflow automation that may require HIPAA-compliant transactional email capabilities.",
+        "suggestedAction": "Schedule a brief check-in with the IT/digital health team to understand Conuity's email integration roadmap and patient notification workflow. Demo Paubox Email API as the HIPAA-native option for care-coordination notifications and appointment reminders.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORk5QWFMyaFFpZzFJRzJUcm9jcVhva1B2eWJoMDc5b3BHWmlrX0NET2RKZk5YUDVhNE40X2h1MkR0WjR2SjdHcXRVeDRHMV9Rb2ZfSno4SVdVcl81U0tFN3JfQUdObHJBNEpFUGl5YTZQMVlRcXZBbzNSWHZmcUFaSnZvLU1STk1fbmsxTDc1bjk0VU1BcUFjdF81Nzc5aVhLUjRwR2dsa1hvMWNDWS1WNU9tZm9yaDdOZDBrbWhHVWhaS3NhbkxoV0N6ck9xaWl1elVKMHdkU3oxWmhxMmpfR3dtZW41ZExpaGNYWG5YYUtZSVpaUl9iUXh1N3h4bF8xYWV2Yw?oc=5",
+        "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "category": "Workforce development and employer brand initiative",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Heartland Dental awarded $34,500 in scholarships to 23 dental hygiene students for the fifth consecutive year, reinforcing a strong employer-brand and workforce-development strategy. Positive press demonstrates commitment to growth and talent pipeline.",
+        "suggestedAction": "Recognize this recurring commitment in a brief note to the executive team. Ask if they'd be open to a brief case-study feature on how Heartland's compliance and security posture supports their growth and reputation in the market.",
+        "sourceName": "Pluang",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTR3LVMxeG1VVW53UDJtSGJ5RzEwQ3FxLXJWY1BxeG1FN3hZam05eFZtT1E5ZE1vaDkxa0g0UHZVNTVHYk83bUlMM085c3dxZUdxRHFNVF9fMFBPTVRicUNDNnFkMjV0YjRxUER5OVpqUjVSRUgwSkxnajcyaDdqRFN0WWlLTmpYb3hSbkFvWVlrc1JKMDd1T0I1OWxhVzRxTHdVZmZxdS1pcW5GazBpLW9R?oc=5",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
+      }
+    ]
+  }
+]

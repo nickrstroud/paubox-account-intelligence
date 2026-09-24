@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "paubox-dashboard",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd '/Users/nickstroud/Claude Projects/paubox-account-intelligence' && bun --bun next start -p 3210"],
+      "port": 3210
+    }
+  ]
+}

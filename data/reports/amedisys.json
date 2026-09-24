@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Amedisys",
+    "runAt": "2026-09-24T20:35:55.654Z",
+    "source": "backfill",
+    "headline": "Amedisys integrating acquired Pennant Group assets; no vendible signals in current news cycle",
+    "signals": [
+      {
+        "category": "M&A Integration",
+        "updateType": "ma",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Amedisys is actively integrating Pennant Group assets, indicating potential for expanded footprint and email user seats across the combined entity.",
+        "suggestedAction": "Monitor for post-integration IT/compliance consolidation; reach out in Q4 2026 to offer a footprint/licensing review and discuss any email migration or consolidation plans.",
+        "sourceName": "Hospice News",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdi1KM05MYW80NHdpX05fWU1maFR4eTRxRWdueWNpNFdrT1BMQ2NPT05qTy1wSjNkakR2VzFLUzVJRTVOeHZCU1pBX3RCZTZkckhEMkJlbnpNRVg1aHB4LTBGdzVWY2EwRWE5QmJocGxCX1o3ZFN4bXJzb1BxNzJ5N3JKMk45bVBMa2ltRHVEclRCN25SSHUtNXNUcUZpbXFaSW1teEIyX21hNWxYQmpCSmNR?oc=5",
+        "publishedAt": "2026-09-17T16:17:22.000Z"
+      }
+    ]
+  }
+]

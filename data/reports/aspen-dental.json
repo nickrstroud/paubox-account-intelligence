@@ -1,0 +1,114 @@
+[
+  {
+    "company": "Aspen Dental",
+    "runAt": "2026-07-26T20:35:55.654Z",
+    "source": "backfill",
+    "headline": "Aspen Dental under regulatory pressure from California AG settlement; simultaneously expanding practice footprint",
+    "signals": [
+      {
+        "category": "Regulatory settlement & compliance review",
+        "updateType": "regulatory",
+        "play": "retention",
+        "score": 1,
+        "summary": "Aspen Dental reached a settlement with California AG over truth-in-advertising violations, triggering heightened compliance scrutiny across DSO/MSO operations. New compliance standards now apply to California practices.",
+        "suggestedAction": "Reach out to compliance/legal leadership with a brief email: 'Given the recent CA AG settlement, we want to ensure your email archiving and audit trails support your compliance posture. Can we schedule a brief call to review retention policies?'",
+        "sourceName": "California Dental Association (CDA)",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGdtREM3MWpOR3lMbl93Z0FEYllpT3U0My1pQ3BSY3JtRnc3VllDWG5DNFR1dFZ0cTc4N09JeGlNRXBDUld3MTg3bWcxTUx1NGJBbkw3c003QXIwb1dIWGoyVnZiUms1QTA1aGlObHJzczFQQktuSTZXQzRpQnVNZXJtU1FYRkFEclJCZHZjNlFaSGh2XzhVZk8tVGFnZXViUmpic25GVy12Y2ZxT3p2TjhxQW5OeV9EVjNkQUdHQ0RodjRVTEpBbjJFbWIyZTAtOFIw?oc=5",
+        "publishedAt": "2026-07-23T07:00:00.000Z"
+      },
+      {
+        "category": "Multi-location expansion",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Aspen Dental is actively opening new practice locations in Georgia, Alabama, and South Carolina (Perry GA, Alabaster AL, Travelers Rest SC), signaling DSO growth and new seat/site opportunities.",
+        "suggestedAction": "Follow up with operations/IT on new office rollouts: 'Congratulations on the new locations. As you scale, we want to ensure each site has secure email configured. Can we audit your current deployment across all offices?'",
+        "sourceName": "dentistrytoday.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObFBWVXNLSzl6QUxvOVVUa1VhT0h5Q3FmemVsZXp2TEpaQm5mY1FOcTlndUxYSF8wdVBkbFpucFpFeEZ5WjZKdFMwTFNUcDVoU0x5R2Zwd2QwdUhlWGllQXlDRDRVYTNmNENjZUlGcTNFaUxKNS1qQ1lpUnR0OGNEQg?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Aspen Dental",
+    "runAt": "2026-08-25T20:35:55.654Z",
+    "source": "backfill",
+    "headline": "Aspen Dental honored by TIME and expanding footprint—seat and marketing expansion opportunity",
+    "signals": [
+      {
+        "category": "TIME Private Company Honor",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Aspen Dental earned a TIME Private Company Honor, signaling strong brand momentum and organizational health.",
+        "suggestedAction": "Reach out to marketing lead to explore a Paubox Marketing case study or patient-communication testimonial; position Aspen as a best-in-class dental practice leveraging HIPAA-compliant email marketing.",
+        "sourceName": "dentistrytoday.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjFCZDFqR21qMWtxTDR6cHlKX294SmhEc2ZXUlJMaDBkNDNIMWZkSlNGNkxGamhIN3pOVDFWaWR2UzkyS2hWbU9OdUdpTGNsbG9FV1ZNdThYNEt0YjRUbGMyV2pmRTRsazR0QkxyZzBacjdCUXkyYkRFeDVTcUZRS3owQQ?oc=5",
+        "publishedAt": "2026-07-27T07:00:00.000Z"
+      },
+      {
+        "category": "New office location",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Aspen Dental opened a new office in Burbank (Chicago's Southwest Side), expanding its hometown footprint and indicating growth trajectory.",
+        "suggestedAction": "Schedule a brief call with the practice administrator or operations team to discuss Email Suite deployment at the new location and review whether additional seats or DLP governance are needed for the expanded office.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDVka2FCOE05WGl3Z0NCd052S292dHlsUDRYaFF3MGxnZDdlNzg1enBMQzFjSGJZVktrRkNWQS1BYld0UHVFYUR5T2tzZTc3NjhBSVliNHhxd1JsY0N0cDdIQWEyS29uRml5cTIxMUIzVHZta0I1cGprQlhPZHowRTZLNGI2dU5Yb1RDMmJEVk56WmVPS2RTR1RFQWY2azA?oc=5",
+        "publishedAt": "2026-08-13T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Aspen Dental",
+    "runAt": "2026-09-24T20:35:55.654Z",
+    "source": "backfill",
+    "headline": "Aspen Dental expanding footprint with new location and workplace recognition; mixed signals on litigation and operational efficiency",
+    "signals": [
+      {
+        "category": "New location opening",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Aspen Dental opened a second Punta Gorda office, signaling local market growth and expansion strategy.",
+        "suggestedAction": "Outreach to office manager or IT contact at the new Punta Gorda location to confirm Paubox deployment and discuss seat expansion needs.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcDVYRjZEajJ6bkl4SE11cjFOa19GVUtMcTZYYktoNUhaVGNkMExPMjVuMEtmdUxuaXJ6ZHlqUnRkMnlrQmotLWVwc1c0clFHckZLeDFGQzY1MzYtQW5rWkI4a2JkbnV5TFA4VUdMeUZiX0pmMnJIcmJiYlhFT3gtZ2dpMU96S1huOXBLZkViV0FiRkNoRDBmVmE3VWZOV0FKbkFEVkJIOTJ6TnVLNlEtSVdneEtrUUFTOUJvbUlzbXRKMjFrakJpUjdranpOazZjLTU5SzRxNkFYZVpyNTRXN1FqZml1dDB6amZKYXF0ZHd2dFZPR3ZXUG90VVloUEZLMlE?oc=5",
+        "publishedAt": "2026-08-27T07:00:00.000Z"
+      },
+      {
+        "category": "Workplace recognition award",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Named to Newsweek's America's Greatest Workplaces for Leadership 2026, indicating strong organizational culture and reputation.",
+        "suggestedAction": "Congratulate the leadership team and explore case-study opportunity around secure email practices supporting remote/flexible work culture.",
+        "sourceName": "Morningstar",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSEFvQU80Q2VPZVplanc0Q0lUS05JQU41WWJ4blVBZ083UXJtalVMd0VBVTdRMXM5MFd0bG5XbjM1VHBfQURvOFE5VkR0c1U5NjJkSzlzR3hRV19HaE56Q0ZRVzFJX2RyUFUyM01oNU02dGhZMS1SREwxYmpQdUhBNkVFN1daZlVoUGQzaFZoSDFkVlFkaE5HTVp3VW10YnNLaTFhanA1SnZYSG5SX3QwQnhUUW10Rlo1cjBFbTNBaXNmT2VpMFZaNmE5Z2hFdWs2LVJxNFBMa2o?oc=5",
+        "publishedAt": "2026-09-16T13:16:00.000Z"
+      },
+      {
+        "category": "Location closure",
+        "updateType": "restructuring",
+        "play": "none",
+        "score": -1,
+        "summary": "Aspen Dental closed its Dunkirk location, suggesting consolidation or strategic portfolio adjustment.",
+        "suggestedAction": "Monitor for any other closures; confirm active seat count and licensing across remaining locations to ensure Paubox contract alignment.",
+        "sourceName": "Observer Today",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHQybzl2OHZHeHBkVlQwQTA2RFI1OUc4Mll0TnVlVDRqdkdIVGdfQjNxOHpWenc0UXBwZnlnYTBCZjZXcmQ5TE15MUd1TDRiVG44SER1Q3NwYkJoM1JDaVlkZjhCWWpWQURGem5xa00xZkNBUnZjeXVHSERSdkFuOXo3UlNXVGxTbGZVdUg0U0tqZEU?oc=5",
+        "publishedAt": "2026-09-16T12:11:57.000Z"
+      },
+      {
+        "category": "Class action lawsuit",
+        "updateType": "enforcement",
+        "play": "retention",
+        "score": -1,
+        "summary": "Class action lawsuit filed against Aspen Dental (Sept 2026), indicating potential operational/compliance pressure and diversion of IT/legal resources.",
+        "suggestedAction": "Check in with compliance/legal contact regarding email retention and audit capabilities; offer archiving as a risk-mitigation tool if not already deployed.",
+        "sourceName": "LawFold.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JVzlNN3ZJajVUM29ZZmNLb2tYQ2pGSHV4dXFQQlFPRWZwWjVUMXFhUU9GR1hUQ09oaDRicmJ1OGtIdHM2N1AtVHdlaUl1ODRVQWNN?oc=5",
+        "publishedAt": "2026-09-06T07:00:00.000Z"
+      }
+    ]
+  }
+]
