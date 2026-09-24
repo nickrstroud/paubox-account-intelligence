@@ -6,6 +6,7 @@ import { relativeDays } from "@/lib/score";
 import OpportunityQueue from "./OpportunityQueue";
 import IndustryFeed from "./IndustryFeed";
 import QuietAccounts from "./QuietAccounts";
+import AgentPrecision from "./AgentPrecision";
 
 const DAY = 86_400_000;
 
@@ -52,11 +53,12 @@ export default function Home() {
           </div>
           <p className="text-[11px] text-slate-400">Last agent run {relativeDays(lastRun ?? null)}</p>
         </div>
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
+        <div className="grid grid-cols-2 lg:grid-cols-5 gap-3">
           <StatTile label="Accounts monitored" value={String(priorities.length)} detail="demo slice of a 9,000+ book" />
           <StatTile label="Surfaced now" value={String(surfaced.length)} detail={`${expansion} expansion · ${risk} at risk`} />
           <StatTile label="Industry signals (30d)" value={String(industry30.length)} detail={`${actNow} flagged act-this-week`} />
           <StatTile label="Quiet accounts" value={`${quietPct}%`} detail="no action needed, no CSM time spent" />
+          <AgentPrecision />
         </div>
       </section>
 

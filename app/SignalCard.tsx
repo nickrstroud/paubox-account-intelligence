@@ -1,6 +1,8 @@
 import type { AccountSignal } from "@/lib/types";
 import { playLabel, updateTypeLabel } from "@/lib/filters";
 import { scoreClasses, scoreLabel, formatDate } from "@/lib/score";
+import FeedbackButtons from "./FeedbackButtons";
+import { accountSignalId } from "./FeedbackContext";
 
 // One account signal. Used in the queue (compact) and the account timeline.
 export default function SignalCard({ signal, at, compact = false }: { signal: AccountSignal; at: string; compact?: boolean }) {
@@ -38,6 +40,13 @@ export default function SignalCard({ signal, at, compact = false }: { signal: Ac
           <span />
         )}
         <span className="text-[11px] text-slate-400 shrink-0">{formatDate(at)}</span>
+      </div>
+      <div className="mt-2 pt-2 border-t border-slate-100">
+        <FeedbackButtons
+          id={accountSignalId(signal.sourceLink, signal.category)}
+          kind="account"
+          updateType={signal.updateType}
+        />
       </div>
     </div>
   );

@@ -8,6 +8,7 @@ import { SEGMENT_OPTIONS, segmentShortLabel } from "@/lib/segments";
 import { RELEVANCE_META, formatDate } from "@/lib/score";
 import { industryMatches } from "@/lib/match";
 import { useFilters } from "./FilterContext";
+import FeedbackButtons from "./FeedbackButtons";
 
 export interface IndustryItem {
   signal: IndustrySignal;
@@ -79,6 +80,9 @@ export default function IndustryFeed({ items, limit }: { items: IndustryItem[]; 
               </details>
             )}
             <p className="text-[10px] text-slate-400 mt-2">{s.sourceName}</p>
+            <div className="mt-2 pt-2 border-t border-slate-100">
+              <FeedbackButtons id={`i_${s.id}`} kind="industry" updateType={s.updateType} />
+            </div>
           </article>
         );
       })}

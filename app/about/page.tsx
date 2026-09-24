@@ -85,7 +85,13 @@ surfaces at:    priority ≥ 3`}
           </li>
           <li>First-party signals: seat changes, login and send volume, support tickets, NPS</li>
           <li>Routing rules: enterprise to named CSMs, the long tail to a pooled or digital-touch motion</li>
-          <li>A feedback loop: CSMs mark signals useful or noise, which tunes the rubric over time</li>
+          <li>
+            A shared feedback loop. The 👍 Useful / 👎 Noise buttons on each signal work today, but votes stay in your
+            browser. In production they&apos;d be stored centrally: signal types that CSMs keep marking as noise would
+            lose weight in the priority formula, and recent labeled examples would go into Claude&apos;s prompt, so
+            the agent learns the team&apos;s judgment. &quot;Agent precision&quot; (percent marked useful) becomes the
+            metric for the agent itself.
+          </li>
         </ul>
       </section>
     </div>
