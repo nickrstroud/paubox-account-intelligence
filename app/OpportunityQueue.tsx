@@ -3,14 +3,12 @@
 import { useMemo } from "react";
 import Link from "next/link";
 import type { AccountPriority } from "@/lib/priority";
-import { segmentLabel, tierLabel } from "@/lib/segments";
-import { STATUS_META, daysUntil, formatCurrency } from "@/lib/score";
+import { segmentLabel } from "@/lib/segments";
+import { RENEWAL_WARNING_DAYS, STATUS_META, daysUntil, formatCurrency } from "@/lib/score";
 import { signalMatches, industryMatches } from "@/lib/match";
 import { useFilters } from "./FilterContext";
 import CompanyLogo from "./CompanyLogo";
 import SignalCard from "./SignalCard";
-
-const RENEWAL_WARNING_DAYS = 120;
 
 export default function OpportunityQueue({ accounts }: { accounts: AccountPriority[] }) {
   const filters = useFilters();
@@ -62,10 +60,10 @@ export default function OpportunityQueue({ accounts }: { accounts: AccountPriori
                     </span>
                   </div>
                   <p className="text-[11px] text-slate-500 mt-0.5">
-                    {segmentLabel(a.company.segment)} · {tierLabel(a.company.tier)}
+                    {segmentLabel(a.company.segment)}
                     {a.company.arr != null && <> · {formatCurrency(a.company.arr)} ARR</>}
                     {renewalDays != null && (
-                      <span className={renewalDays < RENEWAL_WARNING_DAYS ? "text-red-700 font-semibold" : ""}>
+                      <span className={renewalDays < RENEWAL_WARNING_DAYS ? "text-red-700 font-bold" : ""}>
                         {" "}
                         · renews in {renewalDays}d
                       </span>
@@ -73,7 +71,7 @@ export default function OpportunityQueue({ accounts }: { accounts: AccountPriori
                   </p>
                 </div>
               </div>
-              <div className="text-right shrink-0" title="Priority = signal strength × recency decay × tier, plus segment-matched industry signals">
+              <div className="text-right shrink-0" title="Priority = signal strength × recency decay × account value (ARR, renewal window), plus segment-matched industry signals">
                 <p className="text-lg font-semibold text-brand-700 tabular-nums leading-none">{a.priority.toFixed(1)}</p>
                 <p className="text-[10px] text-slate-400 mt-0.5">priority</p>
               </div>

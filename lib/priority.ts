@@ -1,10 +1,10 @@
 import type { AccountSignal, Company, IndustrySignal } from "./types";
 import { getCompanies, getCompanyHistory, getIndustrySignals, getPipelineState, slugify } from "./data";
-import { tierWeight } from "./segments";
+import { RENEWAL_WARNING_DAYS, daysUntil } from "./score";
 
 // How the Opportunity Queue ranks thousands of mostly-quiet accounts:
 // every signal contributes weight by strength, decays with age, and is
-// multiplied by account tier. Industry signals add a smaller boost to every
+// multiplied by account value (ARR band, plus a bump inside the renewal window). Industry signals add a smaller boost to every
 // account in an affected segment. Accounts above SURFACE_THRESHOLD rise into
 // the queue on their own; everything else stays in the quiet table.
 
@@ -14,9 +14,17 @@ const INDUSTRY_WINDOW_DAYS = 30;
 const SEGMENT_BOOST = 0.5; // per relevance point of a segment-matched industry signal
 // Segment-wide news boosts ranking but can't surface an account on its own —
 // otherwise one big HIPAA rule would flood the queue with every account.
-const SEGMENT_BOOST_CAP = 1.8; // × enterprise 1.5 = 2.7, still under the threshold
+const SEGMENT_BOOST_CAP = 1.3; // × max value weight 1.875 = 2.4, still under the threshold
 const MENTION_WEIGHT = 10; // an industry item that names the account counts like a direct signal
 export const SURFACE_THRESHOLD = 3;
+
+// Bigger accounts and accounts close to renewal deserve attention sooner.
+function valueWeight(company: Company): number {
+  const arr = company.arr ?? 0;
+  const band = arr > 25_000 ? 1.5 : arr > 10_000 ? 1.25 : arr > 3_000 ? 1.1 : 1.0;
+  const renewing = company.renewalDate != null && daysUntil(company.renewalDate) <= RENEWAL_WARNING_DAYS;
+  return band * (renewing ? 1.25 : 1);
+}
 
 const SCORE_WEIGHT: Record<number, number> = { 2: 10, 1: 5, 0: 0.5, [-1]: 6, [-2]: 12 };
 // Press and awards are real (advocacy asks) but shouldn't outrank a lawsuit or an acquisition.
@@ -92,7 +100,7 @@ export function getAccountPriorities(): AccountPriority[] {
       const industryWeight = mentionWeight + Math.min(segmentWeight, SEGMENT_BOOST_CAP);
 
       const signalWeight = recentSignals.reduce((sum, r) => sum + r.weight, 0);
-      const priority = Math.round((signalWeight + industryWeight) * tierWeight(company.tier) * 10) / 10;
+      const priority = Math.round((signalWeight + industryWeight) * valueWeight(company) * 10) / 10;
       let topSignal = recentSignals[0] ?? null;
       const surfaced = priority >= SURFACE_THRESHOLD;
 

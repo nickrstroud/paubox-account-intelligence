@@ -3,10 +3,21 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import type { AccountPriority } from "@/lib/priority";
-import { segmentLabel, tierLabel } from "@/lib/segments";
-import { formatCurrency, relativeDays } from "@/lib/score";
+import { segmentLabel } from "@/lib/segments";
+import { RENEWAL_WARNING_DAYS, daysUntil, formatCurrency, formatDate, relativeDays } from "@/lib/score";
 import { useFilters } from "./FilterContext";
 import CompanyLogo from "./CompanyLogo";
+
+function RenewalCell({ date }: { date: string }) {
+  const days = daysUntil(date);
+  const soon = days <= RENEWAL_WARNING_DAYS;
+  return (
+    <span className={soon ? "text-red-700 font-bold" : "text-slate-500"}>
+      {formatDate(date + "T12:00:00Z")}
+      {soon && ` (${days}d)`}
+    </span>
+  );
+}
 
 export default function QuietAccounts({ accounts }: { accounts: AccountPriority[] }) {
   const { segment } = useFilters();
@@ -41,8 +52,8 @@ export default function QuietAccounts({ accounts }: { accounts: AccountPriority[
             <tr>
               <th className="text-left font-medium px-4 py-2">Account</th>
               <th className="text-left font-medium px-3 py-2">Segment</th>
-              <th className="text-left font-medium px-3 py-2">Tier</th>
               <th className="text-right font-medium px-3 py-2">ARR</th>
+              <th className="text-left font-medium px-3 py-2">Renewal</th>
               <th className="text-left font-medium px-3 py-2 whitespace-nowrap">Last signal</th>
               <th className="text-right font-medium px-4 py-2">Priority</th>
             </tr>
@@ -65,9 +76,15 @@ export default function QuietAccounts({ accounts }: { accounts: AccountPriority[
                     </span>
                   )}
                 </td>
-                <td className="px-3 py-2 text-slate-500">{tierLabel(a.company.tier)}</td>
                 <td className="px-3 py-2 text-slate-500 text-right tabular-nums">
                   {a.company.arr != null ? formatCurrency(a.company.arr) : "—"}
+                </td>
+                <td className="px-3 py-2 whitespace-nowrap">
+                  {a.company.renewalDate ? (
+                    <RenewalCell date={a.company.renewalDate} />
+                  ) : (
+                    <span className="text-slate-400">—</span>
+                  )}
                 </td>
                 <td className="px-3 py-2 text-slate-500 whitespace-nowrap">{relativeDays(a.lastSignalAt)}</td>
                 <td className="px-4 py-2 text-slate-400 text-right tabular-nums">{a.priority.toFixed(1)}</td>

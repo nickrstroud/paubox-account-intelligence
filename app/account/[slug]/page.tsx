@@ -3,13 +3,11 @@ import Link from "next/link";
 import { getCompanies, getCompanyBySlug, getCompanyHistory, slugify } from "@/lib/data";
 import { getAccountPriorities } from "@/lib/priority";
 import { withAffectedAccounts, rankIndustry } from "@/lib/industry-view";
-import { segmentLabel, tierLabel } from "@/lib/segments";
-import { STATUS_META, daysUntil, formatCurrency, formatDate, relativeDays } from "@/lib/score";
+import { segmentLabel } from "@/lib/segments";
+import { RENEWAL_WARNING_DAYS, STATUS_META, daysUntil, formatCurrency, formatDate, relativeDays } from "@/lib/score";
 import AccountTimeline from "./AccountTimeline";
 import CompanyLogo from "@/app/CompanyLogo";
 import IndustryFeed from "@/app/IndustryFeed";
-
-const RENEWAL_WARNING_DAYS = 120;
 
 export function generateStaticParams() {
   return getCompanies().map((c) => ({ slug: slugify(c.name) }));
@@ -71,17 +69,15 @@ export default async function AccountPage({ params }: { params: Promise<{ slug: 
           </div>
         </div>
 
-        <dl className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 mt-5 pt-4 border-t border-slate-100">
+        <dl className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 mt-5 pt-4 border-t border-slate-100">
           <Fact label="Segment">
             {segmentLabel(company.segment)}
             {company.segmentInferred && <span className="text-slate-400 text-xs"> (inferred)</span>}
           </Fact>
-          <Fact label="Tier">{tierLabel(company.tier)}</Fact>
-          <Fact label="Paubox products">{company.products?.length ? company.products.join(", ") : "—"}</Fact>
           <Fact label="ARR">{company.arr != null ? formatCurrency(company.arr) : "—"}</Fact>
           <Fact label="Renewal">
             {company.renewalDate && renewalDays != null ? (
-              <span className={renewalDays < RENEWAL_WARNING_DAYS ? "text-red-700 font-semibold" : ""}>
+              <span className={renewalDays < RENEWAL_WARNING_DAYS ? "text-red-700 font-bold" : ""}>
                 {formatDate(company.renewalDate + "T12:00:00Z")} ({renewalDays}d)
               </span>
             ) : (
@@ -91,7 +87,7 @@ export default async function AccountPage({ params }: { params: Promise<{ slug: 
           <Fact label="Last checked">{relativeDays(p.lastCheckedAt)}</Fact>
         </dl>
         {(company.arr != null || company.renewalDate) && (
-          <p className="text-[10px] text-slate-400 mt-3">ARR, products, and renewal date are illustrative demo values.</p>
+          <p className="text-[10px] text-slate-400 mt-3">ARR and renewal date are illustrative demo values.</p>
         )}
       </div>
 

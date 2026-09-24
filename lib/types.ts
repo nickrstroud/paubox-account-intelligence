@@ -5,10 +5,8 @@ export interface Company {
   website: string;
   segment?: string; // lib/segments.ts SEGMENT_OPTIONS value
   segmentInferred?: boolean; // true when scripts/enrich.ts filled it in
-  tier?: string; // lib/segments.ts TIER_OPTIONS value
   newsQuery?: string; // defaults to "\"<name>\""
   // Illustrative demo fields, not real account data.
-  products?: string[];
   arr?: number; // USD
   renewalDate?: string; // "YYYY-MM-DD"
 }

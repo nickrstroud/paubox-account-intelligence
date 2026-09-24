@@ -19,17 +19,3 @@ export function segmentShortLabel(value: string): string {
 export function segmentLabel(value: string | undefined): string {
   return SEGMENT_OPTIONS.find((s) => s.value === value)?.label ?? "Unsegmented";
 }
-
-export const TIER_OPTIONS = [
-  { value: "enterprise", label: "Enterprise", weight: 1.5 },
-  { value: "mid_market", label: "Mid-Market", weight: 1.2 },
-  { value: "smb", label: "SMB", weight: 1.0 },
-];
-
-export function tierLabel(value: string | undefined): string {
-  return TIER_OPTIONS.find((t) => t.value === value)?.label ?? "—";
-}
-
-export function tierWeight(value: string | undefined): number {
-  return TIER_OPTIONS.find((t) => t.value === value)?.weight ?? 1.0;
-}

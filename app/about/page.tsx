@@ -17,7 +17,7 @@ const STEPS = [
   {
     n: "4",
     title: "Rank, don't list",
-    body: "Every signal gets a weight by strength, decays with a 14-day half-life, and is multiplied by tier. Segment-wide industry news nudges ranking but can't surface an account alone. Accounts above the threshold rise into the queue on their own; the rest stay quiet.",
+    body: "Every signal gets a weight by strength, decays with a 14-day half-life, and is multiplied by account value: the ARR band, with a bump for accounts inside the 90-day renewal window. Segment-wide industry news nudges ranking but can't surface an account alone. Accounts above the threshold rise into the queue on their own; the rest stay quiet.",
   },
   {
     n: "5",
@@ -55,13 +55,14 @@ export default function AboutPage() {
       <section className="border border-slate-200 rounded-xl bg-white p-5 shadow-sm">
         <h2 className="text-sm font-semibold text-slate-900 mb-2">Priority formula</h2>
         <pre className="text-xs bg-slate-50 border border-slate-200 rounded-md p-3 overflow-x-auto text-slate-700">
-{`priority = tier × ( Σ signal_weight × 0.5^(age_days / 14)
+{`priority = value × ( Σ signal_weight × 0.5^(age_days / 14)
                    + Σ named_industry_mentions
-                   + min(segment_industry_boost, 1.8) )
+                   + min(segment_industry_boost, 1.3) )
 
 signal_weight:  +2 → 10   +1 → 5   0 → 0.5   −1 → 6   −2 → 12
                 (brand/press × 0.5; a −2 in the last 45 days flags "At risk")
-tier:           Enterprise 1.5   Mid-Market 1.2   SMB 1.0
+value:          ARR >$25k 1.5   >$10k 1.25   >$3k 1.1   else 1.0
+                × 1.25 if renewing within 90 days
 surfaces at:    priority ≥ 3`}
         </pre>
       </section>
@@ -79,7 +80,7 @@ surfaces at:    priority ≥ 3`}
         <h2 className="text-sm font-semibold text-slate-900 mb-2">What production would add</h2>
         <ul className="text-sm text-slate-600 list-disc pl-5 space-y-1">
           <li>
-            HubSpot as the account source of truth (segment, tier, ARR, renewal, owner), plus signals written back as
+            HubSpot as the account source of truth (segment, ARR, renewal, owner, product mix), plus signals written back as
             tasks on the owning CSM&apos;s queue
           </li>
           <li>First-party signals: seat changes, login and send volume, support tickets, NPS</li>

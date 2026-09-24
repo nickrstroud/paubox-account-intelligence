@@ -58,6 +58,8 @@ export function relativeDays(iso: string | null): string {
   return formatDate(iso);
 }
 
+export const RENEWAL_WARNING_DAYS = 90;
+
 export function daysUntil(dateIso: string): number {
   const target = new Date(dateIso + "T00:00:00Z").getTime();
   const now = new Date();

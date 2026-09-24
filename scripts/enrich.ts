@@ -5,7 +5,7 @@ import { MODEL } from "./analyze.ts";
 import { SEGMENT_ENUM, SEGMENT_TEXT } from "./paubox-context.ts";
 import type { Company } from "../lib/types.ts";
 
-// Fills in blanks on companies.json: infers segment + tier for accounts that
+// Fills in blanks on companies.json: infers segment for accounts that
 // don't have one, and a disambiguated news query when the bare name is likely
 // to collide with unrelated entities. Never overwrites values you supplied.
 
@@ -25,14 +25,13 @@ const TOOL: Anthropic.Tool = {
           properties: {
             name: { type: "string" },
             segment: { type: "string", enum: SEGMENT_ENUM },
-            tier: { type: "string", enum: ["enterprise", "mid_market", "smb"] },
             newsQuery: {
               type: "string",
               description:
                 'Google News query. Default: the exact quoted name, e.g. "\\"Acme Health\\"". Add a disambiguating OR-group only if the name is generic, e.g. "\\"Mercy\\" (hospital OR health)"',
             },
           },
-          required: ["name", "segment", "tier", "newsQuery"],
+          required: ["name", "segment", "newsQuery"],
         },
       },
     },
@@ -42,7 +41,7 @@ const TOOL: Anthropic.Tool = {
 
 async function main() {
   const companies = await loadCompanies();
-  const todo = companies.filter((c) => !c.segment || !c.tier || !c.newsQuery);
+  const todo = companies.filter((c) => !c.segment || !c.newsQuery);
   console.log(`${todo.length} of ${companies.length} account(s) need enrichment`);
 
   for (let i = 0; i < todo.length; i += BATCH) {
@@ -60,8 +59,6 @@ async function main() {
 Segments:
 ${SEGMENT_TEXT}
 
-Tier by approximate size: enterprise (large health systems, national payers/vendors, 1,000+ employees), mid_market (regional orgs, 100-1,000), smb (single practices, small clinics, <100).
-
 Organizations:
 ${batch.map((c) => `- ${c.name} (${c.website})`).join("\n")}`,
         },
@@ -69,7 +66,7 @@ ${batch.map((c) => `- ${c.name} (${c.website})`).join("\n")}`,
     });
     const toolUse = message.content.find((b) => b.type === "tool_use");
     const profiles = (toolUse?.type === "tool_use" ? (toolUse.input as any).profiles : []) as Required<
-      Pick<Company, "name" | "segment" | "tier" | "newsQuery">
+      Pick<Company, "name" | "segment" | "newsQuery">
     >[];
 
     for (const p of profiles) {
@@ -79,9 +76,8 @@ ${batch.map((c) => `- ${c.name} (${c.website})`).join("\n")}`,
         c.segment = p.segment;
         c.segmentInferred = true;
       }
-      c.tier ??= p.tier;
       c.newsQuery ??= p.newsQuery;
-      console.log(`  ${c.name}: ${c.segment}${c.segmentInferred ? " (inferred)" : ""} / ${c.tier} / ${c.newsQuery}`);
+      console.log(`  ${c.name}: ${c.segment}${c.segmentInferred ? " (inferred)" : ""} / ${c.newsQuery}`);
     }
   }
 

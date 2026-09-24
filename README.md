@@ -24,10 +24,10 @@ the rest.
    privacy laws, CMS interoperability). Claude keeps only items a CSM could act on, rates
    relevance 1–3, and tags the affected segments. Named-account mentions are verified in
    code against the article text.
-4. **Ranking** (`lib/priority.ts`): signal weight × 14-day half-life decay × tier, plus a
+4. **Ranking** (`lib/priority.ts`): signal weight × 14-day half-life decay × account value (ARR band, renewal window), plus a
    capped segment boost from industry signals. Accounts at priority ≥ 3 surface in the
    Opportunity Queue; the rest go to the quiet table. See `/about` on the site.
-5. **Enrichment** (`scripts/enrich.ts`): infers segment, tier, and a disambiguated news
+5. **Enrichment** (`scripts/enrich.ts`): infers segment and a disambiguated news
    query for accounts that don't have them. It never overwrites values you supplied.
 6. **Schedule**: GitHub Actions runs daily and commits `data/` back to the repo. Vercel
    redeploys the static Next.js site on each commit.
@@ -38,7 +38,7 @@ the rest.
 bun install
 cp .env.local.example .env.local      # add ANTHROPIC_API_KEY
 # edit data/companies.json (see schema below)
-bun run enrich      # fill in missing segment / tier / newsQuery
+bun run enrich      # fill in missing segment / newsQuery
 bun run backfill    # ~3 months of account + industry history
 bun run run         # one daily run
 bun --bun next dev  # preview locally
@@ -52,17 +52,15 @@ Only `name` and `website` are required.
 {
   "name": "Example Family Dental",
   "website": "https://example.com/",
-  "segment": "dental",
-  "tier": "smb",
+  "segment": "specialty_practice",
   "newsQuery": "\"Example Family Dental\"",
-  "products": ["Email Suite"],
   "arr": 4800,
   "renewalDate": "2027-01-01"
 }
 ```
 
-Segments and tiers are defined in `lib/segments.ts`. `products`, `arr`, and
-`renewalDate` are illustrative demo values.
+Segments are defined in `lib/segments.ts`. `arr` and `renewalDate` are illustrative
+demo values; renewals inside 90 days are flagged in bold red.
 
 ## Cost
 

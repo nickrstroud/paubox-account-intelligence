@@ -106,7 +106,6 @@ export async function analyzeCompany(
     `Website: ${company.website}`,
     `Segment: ${segmentLabel(company.segment)}`,
     company.newsQuery ? `News search used: ${company.newsQuery}` : null,
-    company.products?.length ? `Current Paubox products: ${company.products.join(", ")}` : null,
   ]
     .filter(Boolean)
     .join("\n");
