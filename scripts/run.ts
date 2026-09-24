@@ -11,6 +11,7 @@ import {
   mapPool,
   markAccountSeen,
   saveState,
+  seenKey,
 } from "./common.ts";
 
 // Daily run. Built for thousands of accounts: every account gets a cheap news
@@ -29,7 +30,9 @@ async function main() {
   await mapPool(companies, CONCURRENCY, async (company) => {
     try {
       const seen = new Set(state.accounts[slugify(company.name)]?.seenLinks ?? []);
-      const news = dedupe(await fetchNews(`${defaultNewsQuery(company)} when:7d`, 10)).filter((n) => !seen.has(n.link));
+      const news = dedupe(await fetchNews(`${defaultNewsQuery(company)} when:7d`, 10)).filter(
+        (n) => !seen.has(n.link) && !seen.has(seenKey(n.title)),
+      );
 
       if (news.length === 0) {
         markAccountSeen(state, company, []);
@@ -41,7 +44,7 @@ async function main() {
       analyzed++;
       signals += analysis.signals.length;
       if (analysis.signals.length > 0) await appendHistory(company, [analysis]);
-      markAccountSeen(state, company, news.map((n) => n.link));
+      markAccountSeen(state, company, news.flatMap((n) => [n.link, seenKey(n.title)]));
       console.log(`${company.name}: ${news.length} new article(s) -> ${analysis.signals.length} signal(s)`);
     } catch (err) {
       console.error(`${company.name}: failed —`, err instanceof Error ? err.message : err);

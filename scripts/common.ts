@@ -5,7 +5,7 @@ import { slugify } from "../lib/slug.ts";
 
 export const DATA_DIR = path.resolve(import.meta.dirname, "../data");
 export const REPORTS_DIR = path.join(DATA_DIR, "reports");
-const MAX_SEEN_PER_ACCOUNT = 200;
+const MAX_SEEN_PER_ACCOUNT = 400;
 
 async function readJson<T>(file: string, fallback: T): Promise<T> {
   try {
@@ -59,6 +59,12 @@ export function defaultNewsQuery(company: Company): string {
 // Normalized title key — the same story syndicated across outlets collapses to one.
 export function titleKey(title: string): string {
   return title.toLowerCase().replace(/\s+-\s+[^-]+$/, "").replace(/[^a-z0-9]+/g, " ").trim();
+}
+
+// Google News gives the same article different links per query, so seen-tracking
+// stores a title key alongside each link.
+export function seenKey(title: string): string {
+  return `t:${titleKey(title)}`;
 }
 
 export function dedupe<T extends { title: string; link: string }>(items: T[]): T[] {

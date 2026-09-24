@@ -1,7 +1,6 @@
 import { fetchNews, type NewsItem } from "./fetch-news.ts";
 import { analyzeCompany } from "./analyze.ts";
 import { runIndustry } from "./industry.ts";
-import { slugify } from "../lib/slug.ts";
 import type { CompanyAnalysis } from "../lib/types.ts";
 import {
   appendHistory,
@@ -13,6 +12,7 @@ import {
   mapPool,
   markAccountSeen,
   saveState,
+  seenKey,
 } from "./common.ts";
 
 // Seeds ~3 months of history so the queue has depth on day one. Uses Google
@@ -60,7 +60,7 @@ async function main() {
           continue;
         }
         if (news.length === 0) continue;
-        links.push(...news.map((n) => n.link));
+        links.push(...news.flatMap((n) => [n.link, seenKey(n.title)]));
         try {
           const analysis = await analyzeCompany(company, news, {
             runAt: w.end.toISOString(),
@@ -84,8 +84,7 @@ async function main() {
         });
       }
       await appendHistory(company, entries);
-      const prevSeen = state.accounts[slugify(company.name)]?.seenLinks ?? [];
-      markAccountSeen(state, company, [...prevSeen, ...links]);
+      markAccountSeen(state, company, links);
       const n = entries.reduce((s, e) => s + e.signals.length, 0);
       console.log(`${company.name}: ${n} historical signal(s)`);
     });
