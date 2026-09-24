@@ -4,23 +4,10 @@ import { useMemo } from "react";
 import Link from "next/link";
 import type { IndustrySignal } from "@/lib/types";
 import { playLabel, updateTypeLabel } from "@/lib/filters";
-import { SEGMENT_OPTIONS } from "@/lib/segments";
+import { SEGMENT_OPTIONS, segmentShortLabel } from "@/lib/segments";
 import { RELEVANCE_META, formatDate } from "@/lib/score";
 import { industryMatches } from "@/lib/match";
 import { useFilters } from "./FilterContext";
-
-const SHORT_SEGMENT: Record<string, string> = {
-  health_system: "Health systems",
-  physician_group: "Physician groups",
-  dental: "Dental/specialty",
-  behavioral_health: "Behavioral health",
-  digital_health: "Digital health",
-  payer: "Payers",
-  pharmacy_lab: "Pharmacy/lab",
-  post_acute: "Post-acute",
-  business_associate: "Business associates",
-  other: "Other",
-};
 
 export interface IndustryItem {
   signal: IndustrySignal;
@@ -43,7 +30,7 @@ export default function IndustryFeed({ items, limit }: { items: IndustryItem[]; 
       {visible.map(({ signal: s, affectedAccounts }) => {
         const rel = RELEVANCE_META[s.relevance];
         const play = playLabel(s.play);
-        const allSegments = s.segments.length >= SEGMENT_OPTIONS.length - 1;
+        const allSegments = s.segments.length >= SEGMENT_OPTIONS.length;
         return (
           <article key={s.id} className="border border-slate-200 rounded-lg p-3.5 bg-white shadow-sm">
             <div className="flex items-center gap-1.5 flex-wrap mb-1.5">
@@ -72,7 +59,7 @@ export default function IndustryFeed({ items, limit }: { items: IndustryItem[]; 
               ) : (
                 s.segments.map((seg) => (
                   <span key={seg} className="text-[10px] px-1.5 py-0.5 rounded bg-slate-100 text-slate-600">
-                    {SHORT_SEGMENT[seg] ?? seg}
+                    {segmentShortLabel(seg)}
                   </span>
                 ))
               )}

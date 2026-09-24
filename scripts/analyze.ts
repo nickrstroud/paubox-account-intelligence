@@ -38,12 +38,21 @@ expansion opportunity):
 
 IMPORTANT relevance rules:
 - Only use articles clearly about THIS organization. Namesakes and unrelated entities
-  with a similar name must be ignored.
+  with a similar name must be ignored. The account's name may be styled differently in
+  articles (capitalization, accents, a shorter brand name, e.g. "OURA" = "Oura" = "ŌURA");
+  those are the same organization.
+- Every account is a customer; judge news by what it means for the relationship, even
+  for consumer-facing companies (funding/IPO, lawsuits, partnerships all matter).
 - If nothing is relevant, return an empty signals array. Most accounts are quiet on
   most days — that is the expected outcome, not a failure.
 - One signal per distinct event, even if several articles cover it.
 
 ${TAXONOMY_TEXT}
+
+The account itself is the Paubox customer. Its own customers, partners, and investors are
+not. Frame actions around the account (e.g. "their customer win means more patient
+email volume through their platform"), never around the third party's Paubox usage.
+The play field must match the product the suggestedAction proposes.
 
 suggestedAction: one concrete next step a CSM would take this week, written for this
 account (e.g. "Email the practice manager a phishing-readiness checklist and offer an
@@ -96,6 +105,7 @@ export async function analyzeCompany(
     `Account: ${company.name}`,
     `Website: ${company.website}`,
     `Segment: ${segmentLabel(company.segment)}`,
+    company.newsQuery ? `News search used: ${company.newsQuery}` : null,
     company.products?.length ? `Current Paubox products: ${company.products.join(", ")}` : null,
   ]
     .filter(Boolean)

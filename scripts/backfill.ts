@@ -91,6 +91,7 @@ async function main() {
     await saveState(state);
   }
 
+  if (process.argv.includes("--accounts-only")) return;
   await runIndustry({ hipaaJournalPages: 12, topicWindow: `${MONTHS_BACK * 30}d`, fedRegDaysBack: MONTHS_BACK * 30 });
 }
 

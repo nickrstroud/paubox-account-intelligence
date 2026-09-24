@@ -1,0 +1,32 @@
+[
+  {
+    "company": "Mark Cuban Cost Plus Drug Company",
+    "runAt": "2026-07-26T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Cost Plus Drugs expands strategic partnerships (Paytient/GoodRx/TrumpRx); Mark Cuban driving healthcare cost-transparency agenda",
+    "signals": [
+      {
+        "category": "Strategic partnership expansion",
+        "updateType": "expansion",
+        "play": "email_api",
+        "score": 1,
+        "summary": "Cost Plus Drugs integrated with Paytient's prescription benefit platform and joined TrumpRx initiative; Mark Cuban highlighting 90 drug price reductions. Growth in platform integrations and customer reach.",
+        "suggestedAction": "Schedule brief call with Mark Cuban's office or ops team to understand new integrations' communication/notification workflows; pitch Paubox Email API for HIPAA-compliant transactional emails (prescription alerts, account confirmations to patients across Paytient platform).",
+        "sourceName": "Chain Drug Review",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmZYWEJlSnNub1ZPbkFNcEctU0RpZnIxNEdZSllIMTZoeER0XzJROTJtaUZpODIxS21iRzA5bkVObjI0WVNodDdQSXJyUHRFbEV4SV9tdnhUTk9od2kxYzRnVTQxXy1Pb2NNTzRnOFJsLVRJUmU4SmFycmRXZ2g3R1hfeWxKQm9lR21yTVJ2S1hBT0Q1TFpHYnpFYzhYUUhwT2dlRDQ0ZE1mWjQ?oc=5",
+        "publishedAt": "2026-07-13T07:00:00.000Z"
+      },
+      {
+        "category": "Healthcare cost-transparency advocacy",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Mark Cuban publicly advocating for healthcare transparency, AI-driven cost exposure, and drug-price reductions; strong media visibility and thought leadership positioning.",
+        "suggestedAction": "Monitor for case-study or co-marketing opportunity: Cost Plus Drugs' commitment to transparent, low-cost medications aligns with Paubox's HIPAA compliance mission. Prepare brief advocacy/testimonial ask for Q3/Q4 marketing campaign.",
+        "sourceName": "AOL.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iQ2tiVVVoUmd4WnRQRGU2RTN6OUd5MTJkZEFjUzBFaHhleERuTS14TndsRFdjTWlwZlk2SGhpb29MeWdNUEhIYkF1M1FjaTMxRmI0bjVSaUZjX2FSTUZzblV3emxwbENXTkM2UUFJcHZ0YjZYNlE?oc=5",
+        "publishedAt": "2026-07-03T07:00:00.000Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "DeVry University",
+    "runAt": "2026-08-25T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "DeVry earns workplace culture award; no material vendor or expansion signals",
+    "signals": [
+      {
+        "category": "Workplace Culture Award",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 0,
+        "summary": "DeVry University earned 2026 Top Workplaces Industry Award for Education and eight Culture Excellence Awards, indicating positive organizational momentum and employer brand strength.",
+        "suggestedAction": "Monitor for case-study or advocacy opportunity if organization expands digital/communications programs, but award alone does not trigger urgent motion at education segment.",
+        "sourceName": "Business Wire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZ3FKSHJnWXFzbE5KRDN4cDM1bFg4elZ6WVkzSnpXTU8yaGx4LS01X3N0NnNoZm9uWURCMmY2TTZwRlZrcmh0Njl2YXhLbEotYXRxWWxNeWl0YXZjSmltZmZHZ1NyaTZnX042Z3o1LVM1ZnREdWRzM1lZZ0tERlN4eHdsc3VpM0F0NHZOTkpPSVh1d0RSUXpOdzlIektpaC1GX1oybENRckFaVlJYQi1UdzVPdS1tVUhhR3JqSXdWT1ZpSElrRmF1dkdkQTkzQmtKb1ZYaG8zNENlNjJ5UlZ5UDFsUzNMcktQd2NVMmxSSGh6UQ?oc=5",
+        "publishedAt": "2026-07-29T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "DeVry University",
+    "runAt": "2026-09-24T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "DeVry University expanding program offerings and strengthening employer brand through new partnerships and remote-work recognition",
+    "signals": [
+      {
+        "category": "New service line partnership",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "DeVry partnered with Pulse Radiology Institute to launch a new MRI technologist degree program, addressing a national skills shortage. This represents meaningful curriculum expansion and signals growth in enrollment and campus/online program footprint.",
+        "suggestedAction": "Outreach to DeVry's marketing and communications team: the new MRI program will require HIPAA-compliant marketing campaigns to recruit students and partner with healthcare facilities. Offer a Paubox Marketing trial to ensure all recruitment communications (email, forms) meet HIPAA standards.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNT1JMNUlNMkdQQ1R5VTg2NFluOVJISXhuTml1ZkdfSGphX1pMVk43bWFsS0dQNWVZUVB0RVZpaDAwRi16NDBrdnh0MzZFUW1yT3dhRktYSjdIVU1tUk9IcFNvT0tRSTZWaEZTVVhxOEl6b05uOV8yXzdxc1ZncGRrM3hrelBONnY1YUdlSEJBZGtFRHlrNjVWeG43bUJTWFN0bVdZTlAweFJYRlRRbDdZVXZidDNaSXBReUpHRHYyR1Vhd2Z3d2o4X3Z3c1h0aTc3dzJac2tEbmFpVDNhTDJ0RXFsSlRJUUpJTU1vemdCUQ?oc=5",
+        "publishedAt": "2026-09-15T18:36:00.000Z"
+      },
+      {
+        "category": "Employer brand recognition",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "DeVry recognized as 2026 Top Workplace for Remote Work, and ranked No. 3 nationally for Information Technology programs. Positive institutional brand signals may open doors for case-study and advocacy opportunities.",
+        "suggestedAction": "Add DeVry to advocacy/case-study pipeline: reach out to the VP of Communications or Chief Marketing Officer to explore a co-authored thought leadership piece on how HIPAA-compliant email enables secure collaboration in remote-first education and healthcare partnerships.",
+        "sourceName": "Business Wire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlhrRjJVNXJaX3ZhUjdfVktqTDByUWQtM1NXZ2doeVRBb3o0ZGJ5T2RGbnNEcFlrMDNya3Z6b3BPS1NtM2RVYmxvTXFUMzRVSFM1eVhjZEExajJidHFhRmFWQ1pFaGdoQk52NUJpTXdsQ2Y2UU1VQkl3alRDVi10OVJBZ2cxR2NVcm8yNmdNU2lyZVdlVU01Zl9JQzdMZmpwVnFhelNHNnhqTUxkdU02c083Z1hHdmJSS2lxTUtoSW1DUQ?oc=5",
+        "publishedAt": "2026-09-22T14:00:00.000Z"
+      }
+    ]
+  }
+]

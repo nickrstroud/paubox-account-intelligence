@@ -1,104 +1,247 @@
 [
   {
-    "name": "Aspen Dental",
-    "website": "https://www.aspendental.com/",
-    "segment": "dental",
-    "tier": "enterprise",
-    "arr": 184000,
-    "renewalDate": "2026-12-15",
-    "products": [
-      "Email Suite"
-    ],
-    "newsQuery": "\"Aspen Dental\""
-  },
-  {
-    "name": "LifeStance Health",
-    "website": "https://lifestance.com/",
+    "name": "Henderson Behavioral Health",
+    "website": "https://www.hendersonbh.org/",
     "segment": "behavioral_health",
-    "tier": "enterprise",
-    "arr": 142000,
-    "renewalDate": "2027-03-01",
-    "products": [
-      "Email Suite",
-      "Inbound Security"
-    ],
-    "newsQuery": "\"LifeStance Health\""
-  },
-  {
-    "name": "Talkspace",
-    "website": "https://www.talkspace.com/",
     "tier": "mid_market",
-    "arr": 48000,
-    "renewalDate": "2027-06-30",
-    "products": [
-      "Email API"
-    ],
-    "segment": "digital_health",
-    "segmentInferred": true,
-    "newsQuery": "\"Talkspace\""
+    "newsQuery": "\"Henderson Behavioral Health\""
   },
   {
-    "name": "Oscar Health",
-    "website": "https://www.hioscar.com/",
-    "arr": 96000,
-    "renewalDate": "2027-01-20",
-    "products": [
-      "Email Suite"
-    ],
-    "segment": "payer",
-    "segmentInferred": true,
+    "name": "North Mississippi Health Services",
+    "website": "https://www.nmhs.net/",
+    "segment": "health_system",
     "tier": "enterprise",
-    "newsQuery": "\"Oscar Health\""
+    "newsQuery": "\"North Mississippi Health Services\" OR \"North Mississippi Medical Center\""
   },
   {
-    "name": "Quest Diagnostics",
-    "website": "https://www.questdiagnostics.com/",
-    "segment": "pharmacy_lab",
-    "tier": "enterprise",
-    "arr": 210000,
-    "renewalDate": "2027-08-01",
-    "products": [
-      "Email Suite",
-      "DLP"
-    ],
-    "newsQuery": "\"Quest Diagnostics\""
-  },
-  {
-    "name": "Amedisys",
-    "website": "https://www.amedisys.com/",
-    "segment": "post_acute",
-    "tier": "enterprise",
-    "arr": 88000,
-    "renewalDate": "2026-11-30",
-    "products": [
-      "Email Suite"
-    ],
-    "newsQuery": "\"Amedisys\""
-  },
-  {
-    "name": "Carbon Health",
-    "website": "https://carbonhealth.com/",
+    "name": "Mark Cuban Cost Plus Drug Company",
+    "website": "https://costplusdrugs.com/",
+    "segment": "pharmaceutical",
     "tier": "mid_market",
-    "arr": 36000,
-    "renewalDate": "2027-02-14",
-    "products": [
-      "Email Suite",
-      "Marketing"
-    ],
-    "segment": "digital_health",
-    "segmentInferred": true,
-    "newsQuery": "\"Carbon Health\""
+    "newsQuery": "\"Cost Plus Drug\" OR \"Cost Plus Drugs\""
   },
   {
-    "name": "Heartland Dental",
-    "website": "https://heartland.com/",
-    "segment": "dental",
+    "name": "OURA",
+    "website": "https://ouraring.com/",
+    "segment": "healthtech",
     "tier": "enterprise",
-    "arr": 120000,
-    "renewalDate": "2027-05-10",
-    "products": [
-      "Email Suite"
-    ],
-    "newsQuery": "\"Heartland Dental\""
+    "newsQuery": "\"Oura\" (ring OR health OR wearable)"
+  },
+  {
+    "name": "RevSpring",
+    "website": "https://revspringinc.com/",
+    "segment": "revenue_cycle",
+    "tier": "enterprise",
+    "newsQuery": "\"RevSpring\""
+  },
+  {
+    "name": "Netsmart",
+    "website": "https://www.ntst.com/",
+    "segment": "healthtech",
+    "tier": "enterprise",
+    "newsQuery": "\"Netsmart\""
+  },
+  {
+    "name": "Telehealthdocs",
+    "website": "https://www.telehealthdocs.com/",
+    "segment": "telehealth",
+    "tier": "smb",
+    "newsQuery": "\"Telehealthdocs\" OR \"Telehealth Docs\""
+  },
+  {
+    "name": "Soteria Mental Health",
+    "website": "https://soteriamh.com/",
+    "segment": "behavioral_health",
+    "tier": "mid_market",
+    "newsQuery": "\"Soteria Mental Health\""
+  },
+  {
+    "name": "DeVry University",
+    "website": "https://www.devry.edu/",
+    "segment": "education",
+    "tier": "enterprise",
+    "newsQuery": "\"DeVry University\""
+  },
+  {
+    "name": "Enable Dental",
+    "website": "https://enabledental.com/",
+    "segment": "specialty_practice",
+    "tier": "smb",
+    "newsQuery": "\"Enable Dental\""
+  },
+  {
+    "name": "RLH Insurance & Benefit",
+    "website": "https://www.rlhinsurance.com/",
+    "segment": "revenue_cycle",
+    "tier": "mid_market",
+    "newsQuery": "\"RLH Insurance\""
+  },
+  {
+    "name": "Clay County Hospital",
+    "website": "https://www.cchospital.com/",
+    "segment": "health_system",
+    "tier": "smb",
+    "newsQuery": "\"Clay County Hospital\" Flora"
+  },
+  {
+    "name": "Health Catalyst",
+    "website": "https://www.healthcatalyst.com/",
+    "segment": "healthtech",
+    "tier": "enterprise",
+    "newsQuery": "\"Health Catalyst\""
+  },
+  {
+    "name": "Vivent Health",
+    "website": "https://viventhealth.org/",
+    "segment": "health_system",
+    "tier": "mid_market",
+    "newsQuery": "\"Vivent Health\""
+  },
+  {
+    "name": "ClearlyDerm",
+    "website": "https://clearlyderm.com/",
+    "segment": "specialty_practice",
+    "tier": "smb",
+    "newsQuery": "\"ClearlyDerm\""
+  },
+  {
+    "name": "Harbor Path",
+    "website": "https://harborpath.org/",
+    "segment": "nonprofit",
+    "tier": "smb",
+    "newsQuery": "\"Harbor Path\" (HIV OR Georgia OR health)"
+  },
+  {
+    "name": "Podimetrics",
+    "website": "https://podimetrics.com/",
+    "segment": "healthtech",
+    "tier": "mid_market",
+    "newsQuery": "\"Podimetrics\""
+  },
+  {
+    "name": "Hawaii Cancer Care",
+    "website": "https://www.hawaiicancercare.com/",
+    "segment": "specialty_practice",
+    "tier": "mid_market",
+    "newsQuery": "\"Hawaii Cancer Care\""
+  },
+  {
+    "name": "Frontier Behavioral Health",
+    "website": "https://fbhwa.org/",
+    "segment": "behavioral_health",
+    "tier": "mid_market",
+    "newsQuery": "\"Frontier Behavioral Health\""
+  },
+  {
+    "name": "Harbors Home Health & Hospice",
+    "website": "https://harborshomehealth.com/",
+    "segment": "specialty_practice",
+    "tier": "mid_market",
+    "newsQuery": "\"Harbors Home Health\" OR \"Harbors Hospice\""
+  },
+  {
+    "name": "Granite Recovery Centers",
+    "website": "https://www.graniterecoverycenters.com/",
+    "segment": "behavioral_health",
+    "tier": "mid_market",
+    "newsQuery": "\"Granite Recovery Centers\""
+  },
+  {
+    "name": "Parallel ENT & Allergy",
+    "website": "https://parallelent.com/",
+    "segment": "specialty_practice",
+    "tier": "smb",
+    "newsQuery": "\"Parallel ENT & Allergy\""
+  },
+  {
+    "name": "WNCAP",
+    "website": "https://www.wncap.org/",
+    "segment": "nonprofit",
+    "tier": "mid_market",
+    "newsQuery": "\"WNCAP\" OR \"Western North Carolina AIDS Project\""
+  },
+  {
+    "name": "Grassroots Labs",
+    "website": "https://www.grassrootslabs.com/",
+    "segment": "healthtech",
+    "tier": "smb",
+    "newsQuery": "\"Grassroots Labs\""
+  },
+  {
+    "name": "Scarlet Plus",
+    "website": "https://www.scarletplus.com/",
+    "segment": "healthtech",
+    "tier": "mid_market",
+    "newsQuery": "\"Scarlet Plus\""
+  },
+  {
+    "name": "Pear Suite",
+    "website": "https://www.pearsuite.com/",
+    "segment": "healthtech",
+    "tier": "smb",
+    "newsQuery": "\"Pear Suite\""
+  },
+  {
+    "name": "MiCare Path",
+    "website": "https://micarepath.com/",
+    "segment": "healthtech",
+    "tier": "smb",
+    "newsQuery": "\"MiCare Path\""
+  },
+  {
+    "name": "Vim",
+    "website": "https://www.getvim.ai/",
+    "segment": "healthtech",
+    "tier": "mid_market",
+    "newsQuery": "\"Vim\" (EHR OR \"health tech\" OR healthtech OR getvim OR startup) -\"Volunteers in Medicine\""
+  },
+  {
+    "name": "Safety Net Connect",
+    "website": "https://safetynetconnect.com/",
+    "segment": "healthtech",
+    "tier": "smb",
+    "newsQuery": "\"Safety Net Connect\""
+  },
+  {
+    "name": "BioIntelliSense",
+    "website": "https://biointellisense.com/",
+    "segment": "healthtech",
+    "tier": "mid_market",
+    "newsQuery": "\"BioIntelliSense\""
+  },
+  {
+    "name": "Red Rover Health",
+    "website": "https://redroverhealth.com/",
+    "segment": "healthtech",
+    "tier": "smb",
+    "newsQuery": "\"Red Rover Health\""
+  },
+  {
+    "name": "OSP",
+    "website": "https://www.osp.com/",
+    "segment": "healthtech",
+    "tier": "mid_market",
+    "newsQuery": "\"OSP Labs\""
+  },
+  {
+    "name": "RTHM",
+    "website": "https://www.rthm.com/",
+    "segment": "behavioral_health",
+    "tier": "smb",
+    "newsQuery": "\"RTHM\" (health OR clinic OR \"long COVID\")"
+  },
+  {
+    "name": "FitOn Health",
+    "website": "https://fitonhealth.com/",
+    "segment": "specialty_practice",
+    "tier": "mid_market",
+    "newsQuery": "\"FitOn Health\""
+  },
+  {
+    "name": "Cloudticity",
+    "website": "https://cloudticity.com/",
+    "segment": "healthtech",
+    "tier": "mid_market",
+    "newsQuery": "\"Cloudticity\""
   }
 ]

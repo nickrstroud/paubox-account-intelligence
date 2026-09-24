@@ -1,0 +1,40 @@
+[
+  {
+    "company": "Vim",
+    "runAt": "2026-07-26T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Vim HealthTech platform achieves HITRUST r2 certification; leadership transition and clinic expansion underway",
+    "signals": [
+      {
+        "category": "HITRUST Certification",
+        "updateType": "regulatory",
+        "play": "none",
+        "score": 1,
+        "summary": "Vim's application achieved HITRUST r2 certification, demonstrating enhanced cybersecurity and information protection compliance posture.",
+        "suggestedAction": "Reach out to congratulate on HITRUST certification and schedule a brief compliance posture review call\u2014position Paubox Email Suite and Inbound Security as complementary protections for their newly certified infrastructure.",
+        "sourceName": "Business Wire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMDY5WmRiOWY4RkNfNFdLdXlvdXpvUWpuajRYYloxci0zVkZPU2dQTW5DNzlWeHdvVThab3hOdEVFd1MwQkNZR3I2aS1ZNUhxaTF5aWNoeTJuZzdxS0NCcnZfUlhUdGJuN1VPWXRmTmFlRkpSazJXNTdJTWhiM0p4QjJIb0hYUThfZjZod214LUpsX21DQ2tWT1BiWFlZNW9BemJCencwQkR6MnFSeE1zZ2VUdXFZc0JGbFVwNm8xLTFCeVVfQTJFa2ZscHVlVXF4SGVIUW01MFpRQ2VlZGFKVEhaRmRmdjNQUFFRUjVGcGZ0ZmpIWU5VdDR0a1A5WjYzTUpMeVhONkVheEdHNmNkbzZxNWxiSWRJWnRUZQ?oc=5",
+        "publishedAt": "2026-07-15T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Vim",
+    "runAt": "2026-08-25T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Vim HealthTech: Leadership change and revenue growth signal expansion readiness",
+    "signals": [
+      {
+        "category": "Revenue growth",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Vim reported $30.3M estimated ARR for 2025, demonstrating strong growth trajectory and organizational scale-up",
+        "suggestedAction": "Schedule a business review to discuss whether current Paubox seat allocation aligns with headcount growth; explore if expansion into new functional areas (marketing campaigns, secure forms for patient intake) is now viable.",
+        "sourceName": "GetLatka",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjNG9PcmVEU0ltY29RSEpsWm9ob1gxSXByWUNUNHdhX3pGdS1IeDN2QXBKdjd1cVJDMmdNU1V4RTdCQi13N1VUbUc3MEhTX3g0d0VJ?oc=5",
+        "publishedAt": "2026-08-10T07:00:00.000Z"
+      }
+    ]
+  }
+]

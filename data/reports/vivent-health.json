@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Vivent Health",
+    "runAt": "2026-09-24T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Vivent Health expanding integrated care footprint with major renovation; limited email security relevance detected",
+    "signals": [
+      {
+        "category": "Facility expansion",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Vivent Health unveiled a $1.6M renovation expanding integrated care services in Green Bay, signaling physical infrastructure investment and potential staffing growth.",
+        "suggestedAction": "Reach out to the operations or IT leadership to understand the scope of the Green Bay expansion—new clinical staff and admin roles may need email seats. Offer a brief assessment of their current HIPAA email compliance posture as a courtesy.",
+        "sourceName": "101 WIXX",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb05nZ0xfYWFFeWp6aFR5b3dHakM0Zkx3TGxkOFdPRUxNYkVRRjVyQUpMWFk1RXh0T29nNmNuVGJPZ1ZYN21rckc2cG5ydVVuM3JNMTFJUEVaX3JYcnNaYkM2YXFCSS11UE9vZExIY1hpZUxGUGo0TVIySzBBMWRteE5yX2c3YU44VVdtSmpzY25DaW14cVNwUlpBNHBUVUhYVEdQYXd1VWQ?oc=5",
+        "publishedAt": "2026-09-23T22:45:55.000Z"
+      }
+    ]
+  }
+]

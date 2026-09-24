@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Pear Suite",
+    "runAt": "2026-07-26T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Pear Suite wins Inno Fire award for innovation in Hawaii healthcare tech",
+    "signals": [
+      {
+        "category": "Innovation award recognition",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Pear Suite named as one of eight innovative Hawaii companies by Pacific Business News Inno Fire Awards 2026. Positive brand recognition and third-party validation of their HealthTech capabilities.",
+        "suggestedAction": "Reach out to congratulate the leadership team on the award win and explore a case-study collaboration showcasing how Pear Suite uses Paubox to maintain HIPAA compliance while scaling their innovation-focused platform.",
+        "sourceName": "The Business Journals",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbnI5YnVtWXlqeVZuLU9LNk5DcWxmOHpUdEtJLWJrUWgxMXJmbmNqc2JqOTd1U0dvSTBzNnV3Y0xZNTJaV3FoSnUtRzZoNHc3UFB6WGt3ZXZKdy1xcGFQVVI3WTJ5QkpsclU3cVhHcmhVVllqTHAtaGRuOWFVNkdFcHU5RjdJUXZhT0RZQ2lxNWg?oc=5",
+        "publishedAt": "2026-07-10T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Pear Suite",
+    "runAt": "2026-08-25T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Pear Suite secures $900K grant from Health Net for Medi-Cal community health initiatives; growing adoption among healthcare systems",
+    "signals": [
+      {
+        "category": "Grant funding & customer adoption",
+        "updateType": "expansion",
+        "play": "email_api",
+        "score": 1,
+        "summary": "Health Net awarded Pear Suite a $900,000 grant to support California community health workers and doulas serving Medi-Cal members. This signals strong adoption of Pear Suite's platform by a major payer and expansion of their health equity use cases.",
+        "suggestedAction": "Reach out to the Pear Suite product team to understand which use cases and workflows (patient communication, provider coordination, intake) will be powered by this grant; explore if HIPAA-compliant email, forms, or transactional APIs are part of the expansion, and offer a complementary security audit or email archiving trial.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPeUx4S1FicVgzS1NNQXdmSDZqUmJBMEdwbkZDVzBNdklSREh5LTROV096Z083VGZ2cXpfNFVxY3M4dWE4T01qNzlZWl82TmdpZnlqZnQ4akRvemVmX1JUaDM3SHhvc3JkQXhGbGVsU0RXQ2FqRVA2Mmp1X3M0YkRKQVJrZVZScDB5ajMyYWRVLXNmSVR4YWlFN0YzTTRJSDhjSmdFWks1OUg5RDdma1hzREE5UnNGdWx4TXZmUUpYX2w2amYzMTNpR2t5LVZieVo0WmVwN1Jwb0hQdURSZ1lVb3NNVzZlckgxZDkxTnVzUGpPdzVMWGNTWDhDcE1ZVENhcmVRN0hUbGNDWG5oV0VlTXlKMGNhZEVCY01KY195RVh6RmM?oc=5",
+        "publishedAt": "2026-08-25T07:00:00.000Z"
+      },
+      {
+        "category": "Healthcare accelerator pilot selection",
+        "updateType": "expansion",
+        "play": "email_api",
+        "score": 1,
+        "summary": "HealthCatalyst Northwest Arkansas selected Pear Suite for a $20,000 community pilot project, indicating early-stage adoption and validation within healthcare innovation networks.",
+        "suggestedAction": "Monitor Pear Suite's progress in the HealthCatalyst cohort; use this as a touchpoint to introduce Paubox's secure patient intake (Forms) and transactional email (Email API) services, which often scale with pilot-to-production transitions.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUU1GM0VNbWZCT3c3YkhKT2Jna1pfbU0xSTBmdThBOS0zanFSckdrbGpYNEV4SmhHNzIyM3NuVTBaeHNrcVpOSEVBbDlQVjIwcE5NdTNBbEYyMlJnTm5ZUHkwWjFCc0tnYndsVl93TkZKcUEyY2lKUE9NSjFpVG5Fc3gxMTFxLW1NdEFIc21ydHhHLTUwaDhySGoxWEVvNlprSWRISUtMZFdoTFNnVmJmOHE5VXhQNUpfYUVJUkVfaVJNOUNhTmJ4QTVKY0drNGtRUkxHZE5UWTFaUQ?oc=5",
+        "publishedAt": "2026-08-25T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Pear Suite",
+    "runAt": "2026-09-24T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Pear Suite secures $900K Health Net grant to expand Medi-Cal community care operations",
+    "signals": []
+  }
+]

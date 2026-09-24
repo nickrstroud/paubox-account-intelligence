@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Health Catalyst",
+    "runAt": "2026-07-26T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Health Catalyst divesting non-core assets to focus on AI strategy; stock volatility reflects execution risk",
+    "signals": [
+      {
+        "category": "Asset divestiture & strategic pivot",
+        "updateType": "expansion",
+        "play": "none",
+        "score": 1,
+        "summary": "Health Catalyst sold Vitalware product line to double down on AI-driven analytics strategy. This signals shift in product focus and potential organizational changes around priorities and budgets.",
+        "suggestedAction": "Monitor Health Catalyst's revised product roadmap and organizational structure over next quarter. Flag if their AI strategy creates demand for HIPAA-compliant email security for emerging use cases (e.g., patient AI-driven communications or app integrations).",
+        "sourceName": "HCI Innovation Group",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV3dxa0lGemJnS3ppRFp3enVuQXl1Qldfc2hMWTUzd1VGck1WU3YzZmI0VU11T0RUakVJNzNnMWhham9UVFNTbk16UDRfRDJPRFpySmZocEJ0eUl6QmItbklTOU5NNHNOclk1dmlIOXRILU5obXMxWm1zelF5UVdNUGpPTWtRYlNacUdOLWR3aDEwblhhZWJsVGNERXlJLW5sWlFNSFRNWTdSU3BaWlBxdGV0Q0pPcXh6N3ZWbE13MTQ2NHNyLXR1RlBKa25RT2M?oc=5",
+        "publishedAt": "2026-07-11T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "Health Catalyst",
+    "runAt": "2026-09-24T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Health Catalyst undergoes major leadership transition with new CEO and board strengthening",
+    "signals": [
+      {
+        "category": "New CEO appointment",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 1,
+        "summary": "Simeon Kohl appointed as CEO and President of Health Catalyst in September 2026. Kohl previously led a healthcare company through a $670M sale, signaling strong M&A and operational experience. Board strengthened simultaneously with appointment of Tami Reller.",
+        "suggestedAction": "Schedule a brief congratulations call or note with Simeon Kohl's office to re-introduce Paubox's healthcare email security and compliance solutions. New leadership often reviews vendor relationships; position as a trusted HIPAA-email partner for healthcare data protection.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLVRDRWxBbGxTaFJqSThfVi13NzRLMHlLU0lJQ21venZtLVBNN2pfd3YxWXl6eWpYZk9RUzdadnQyS3hXRHlSd1hkc2lDYUZNaURqZzNCb0xjbXdhbVRGZi1HdVdidlFGanI4NFpjWFN4b3dLWnNjR3I4LTdZWEZyNnp3aDlHdDlSd3lLZVZNbjFGRjA?oc=5",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
+      },
+      {
+        "category": "Board strengthening",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 0,
+        "summary": "Tami Reller appointed to Health Catalyst's board, adding senior healthcare leadership and governance oversight. No immediate operational impact on email/compliance tooling.",
+        "suggestedAction": "Monitor for any compliance or risk-management initiatives Reller may champion; be ready to support governance-driven email security and archiving reviews.",
+        "sourceName": "PR Newswire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEtwT2FnQlp0SWJ2MnJtblpkbkVvaTk0TVBERUl1bHl4T3lNV1F5SmlINERjbEV6ZHh2VVRtV2g0SmRqeE1kb2RDSnd0ZzNETFVUNHNDOVNjV0RzSjdLRXFTRHdzWjNoa3k3MUxGLWlZUnVMR1Z0X3BPVXVNclVtdXlKd1BGSDUxcGF3aEtVUnJZcTZRa0VjelJzX3Y0RWVqa3BUYlpKSkJRVjlZbW5vZXdzR2RRRDhualdtdXlYUDdsYUlUUnFHdQ?oc=5",
+        "publishedAt": "2026-09-14T07:00:00.000Z"
+      }
+    ]
+  }
+]

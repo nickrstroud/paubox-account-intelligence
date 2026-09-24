@@ -1,17 +1,20 @@
 // Customer segments. Industry signals are tagged with the segments they affect,
 // which is how one regulatory change fans out to every account in that segment.
 export const SEGMENT_OPTIONS = [
-  { value: "health_system", label: "Hospital & Health System" },
-  { value: "physician_group", label: "Physician Group / Clinic" },
-  { value: "dental", label: "Dental & Specialty Practice" },
-  { value: "behavioral_health", label: "Behavioral Health" },
-  { value: "digital_health", label: "Digital Health / Telehealth" },
-  { value: "payer", label: "Payer / Health Plan" },
-  { value: "pharmacy_lab", label: "Pharmacy, Lab & Diagnostics" },
-  { value: "post_acute", label: "Senior Care / Home Health / Hospice" },
-  { value: "business_associate", label: "Business Associate / Health IT Vendor" },
-  { value: "other", label: "Other (Insurance, Education, etc.)" },
+  { value: "behavioral_health", label: "Behavioral Health", short: "Behavioral health" },
+  { value: "health_system", label: "Hospitals & Health Systems", short: "Hospitals" },
+  { value: "specialty_practice", label: "Specialty Practices", short: "Specialty practices" },
+  { value: "healthtech", label: "HealthTech", short: "HealthTech" },
+  { value: "telehealth", label: "Telehealth", short: "Telehealth" },
+  { value: "pharmaceutical", label: "Pharmaceutical", short: "Pharma" },
+  { value: "revenue_cycle", label: "Revenue Cycle", short: "Revenue cycle" },
+  { value: "nonprofit", label: "Nonprofits", short: "Nonprofits" },
+  { value: "education", label: "Education", short: "Education" },
 ];
+
+export function segmentShortLabel(value: string): string {
+  return SEGMENT_OPTIONS.find((s) => s.value === value)?.short ?? value;
+}
 
 export function segmentLabel(value: string | undefined): string {
   return SEGMENT_OPTIONS.find((s) => s.value === value)?.label ?? "Unsegmented";

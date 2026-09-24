@@ -57,8 +57,8 @@ For each kept item:
       email-driven breach
   2 = worth a proactive touch to the affected segment
   1 = background context
-- segments: only segments DIRECTLY affected. A breach at a dental practice affects
-  "dental", not every segment. Tag all segments only for truly universal items (e.g. a
+- segments: only segments DIRECTLY affected. A breach at a dermatology clinic affects
+  "specialty_practice", not every segment. Tag all segments only for truly universal items (e.g. a
   HIPAA Security Rule change). Segments:
 ${SEGMENT_TEXT}
 - mentionedAccounts: exact names from the provided account list ONLY if that exact

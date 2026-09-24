@@ -1,0 +1,43 @@
+[
+  {
+    "company": "Netsmart",
+    "runAt": "2026-07-26T21:32:36.260Z",
+    "source": "backfill",
+    "headline": "Netsmart expanding footprint and winning major healthcare system contracts; multiple platform deployments signal growth and potential email/compliance infrastructure needs",
+    "signals": [
+      {
+        "category": "Major customer wins",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Pacific Clinics selected Netsmart for connected community-based care across California, indicating platform expansion and new deployment sites.",
+        "suggestedAction": "Reach out to Netsmart's customer success or account management team to understand scope: how many patient-facing locations, EHR instances, and email users will be impacted by Pacific Clinics and CDSH deployments. Offer a brief compliance email audit aligned with their platform rollouts.",
+        "sourceName": "Business Wire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM0VpX3lJMkJqblM2Q0x6Y1V2a0ZERngyb2JDNVJMVEZJQTAtZzNER1J6Y3FPVS0tQTRNRG9wZXJLSW02aGZsSHdtMVBOTzY1eGVQV3Y0Q05vR2RnSXF3eFFXalZkaFNjMnAtWWhXNXJrM3BCTUYybXlDdkUzSG5IeG9ab09RNlktc2FoeXU1OTRfMW5OcURtMl9NMUFIenpkazFBQmVNZzBrR1BQSG1lYlJqazR6b2hPRUc1OWszd2VyVFlZUGRHZVBBbmVwc2J2Q2xzVDJ4SjlJZWFlODR0dlZsSQ?oc=5",
+        "publishedAt": "2026-07-21T07:00:00.000Z"
+      },
+      {
+        "category": "Major government health system contract",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "California Department of State Hospitals selected Netsmart as modernized, data-driven technology platform—large-scale deployment across public health infrastructure.",
+        "suggestedAction": "Flag Netsmart's government healthcare expansion: confirm deployment sites and email user count. Propose co-marketing or case-study opportunity around secure healthcare email compliance for public health systems.",
+        "sourceName": "Business Wire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdUdrZE1kWWVmdFNsTVFIVXE3bjcyQzNLSlpSODlMclM2VlQ3VzYxNmV5dENBcnFzcGRvZzhtOTE3X1R1YjBTQU1SNGVUSUNOazEybUtrdEJvQlgyMl85ZTRwdDZYN1NuTm42N0pKZkwzendxb2NtVHVtSzlqaG5BR1pxelVIUEMxT0JHVktmRnJtaGl1ME1fSk11dFktMkE2Y21SU0xKQnptZHVRYmR3ZGs4dlEwa244TWJZNllQUl94cHlsbEZNblk4OHJJaHJ3WlRkVHp1RHVUY1FUWGJpWW9mTDhfMDQyaE0waks3SDN0VnlWdmVoeFBxVkE?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
+      },
+      {
+        "category": "International office expansion",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Netsmart expands Bengaluru office, signaling continued growth in India and likely increase in global email and compliance footprint.",
+        "suggestedAction": "Confirm whether Bengaluru expansion includes customer-support or product-development functions. If customer-support, cross-check that India-based teams have HIPAA email compliance training; if product-dev, explore whether new features might create email compliance or data-handling opportunities.",
+        "sourceName": "Business Wire",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWl6WUFCdEVld0FLa1Zsd3RZeUw5bm5yeXJTd01LbVB6ckZJc01qc3VpRkp4ZklBbkJUVTlFczVIczFlU082RDl0WmZyTXdTaG1yalVwLVVfeklwcDV6MGR0TmxJejRpbkNIWTZFR3hkUFZiblpfRUMtdl9Fcl9hMnI5MGU2OGZJMTYtbnE1cWRCSUxaZ1ZfaFVtaTRJOGFGcUo3M0xNMkpPQm5OSzJIR2twcVkzc0paX2FTMGl3?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
+      }
+    ]
+  }
+]

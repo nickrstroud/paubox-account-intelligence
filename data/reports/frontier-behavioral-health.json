@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Frontier Behavioral Health",
+    "runAt": "2026-07-26T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "Frontier Behavioral Health expands service footprint with new joint clinic and crisis response capabilities",
+    "signals": [
+      {
+        "category": "New clinic opening (joint venture with CHAS Health)",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Frontier Behavioral Health broke ground on a new downtown Spokane clinic in partnership with CHAS Health, offering integrated healthcare and addiction services for low-income patients. This represents material geographic and service expansion for the organization.",
+        "suggestedAction": "Reach out to Frontier's compliance/IT leadership to confirm email and data security requirements for the new clinic location; offer a brief compliance readiness conversation covering HIPAA mail handling and DLP policies for the expanded operation.",
+        "sourceName": "The Spokesman-Review",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1VwY1Z1OEZTdWdFWlNWMHp3elN4cHJydFNPXy01UjBxS0MtVjBxcHk5RDF0V0x5OElzcm9BQWozQzBYc1hHR1RUZzRrLWR2VEtsQVJ3ODhkT0N3SVVjMzRaWUxyTEM5dThrazh2c1BGU1Q0YzNiaWlQTUxtVWZHc3BHc2RQWWItSUJhYkZPWUpma2U1SEVDUU5NX1Q3dw?oc=5",
+        "publishedAt": "2026-06-29T07:00:00.000Z"
+      }
+    ]
+  }
+]

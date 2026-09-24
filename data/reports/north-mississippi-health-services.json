@@ -1,0 +1,51 @@
+[
+  {
+    "company": "North Mississippi Health Services",
+    "runAt": "2026-07-26T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "North Mississippi Health Services names new Chief Operating Officer; routine leadership transition",
+    "signals": [
+      {
+        "category": "COO appointment",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 0,
+        "summary": "North Mississippi Health Services announced Shawn Morrow as new Chief Operating Officer in mid-July 2026. Leadership transitions present a potential touchpoint for vendor re-introduction, but COO appointments do not typically trigger immediate platform needs.",
+        "suggestedAction": "Monitor for broader operational changes or technology initiatives from new COO over next 60 days; flag for outreach if new leadership commences tech or security review.",
+        "sourceName": "WCBI TV",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ21OMFR0Z3BZTlBMWWw4Y0p3Z01WMm8zcUVLcFFrYjlDWC1Wd3lKTG5yd1prNGlwOW9peTFDQ3RaX2RKZFczQTBZRjV0X2VNb3BKN0JOeHg4bkVrN09ubVRHVVQtWkhyYUFXUDI1eUd4UG1Rd1FZRzRualFfYkZ2VEdEdUt1dUQtRVk1YVBZQ0lNcXM?oc=5",
+        "publishedAt": "2026-07-13T07:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "company": "North Mississippi Health Services",
+    "runAt": "2026-09-24T21:28:10.909Z",
+    "source": "backfill",
+    "headline": "NMHS expands physical footprint with new medical office building; names new chief legal officer",
+    "signals": [
+      {
+        "category": "New medical office building",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "North Mississippi Health Services opened a new medical office building, indicating geographic and operational expansion.",
+        "suggestedAction": "Reach out to the facilities/IT leadership to understand the new building's staffing and email infrastructure needs. Offer a brief discovery call to map new seat count and discuss email security posture across the expanded footprint.",
+        "sourceName": "WTVA",
+        "sourceLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51dUNwNnRHVXlDVnEwMFdsLUhQUjFRci1fZE8wT3RIaldQRlFaNV81TE0xVmtNdXpyTWpsalhCTFZ0RVQzcDZ2ZE5MbGZQb3g2RkVwUGZwVXpaY1NRNHVabEVoX0x0ZjNZRXpJT1dZWlJRUzRfcEVUSFhnVQ?oc=5",
+        "publishedAt": "2026-09-01T07:00:00.000Z"
+      },
+      {
+        "category": "New chief legal officer",
+        "updateType": "leadership",
+        "play": "none",
+        "score": 0,
+        "summary": "NMHS appointed a new chief legal officer, bringing fresh leadership to compliance and legal functions.",
+        "suggestedAction": "Monitor for introduction window. After a reasonable onboarding period (4-6 weeks), send a brief email introducing Paubox's compliance and retention features relevant to healthcare legal operations, positioning it as a vendor review conversation.",
+        "sourceName": "Northeast Mississippi Daily Journal",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTlRcVpPVzFtOGFJWkVfT3NiRkl6SFJudFJSaXoteFJEc29sZ2k2Z0JHN1ZEbHh5dWY1eG1xN1pTV2s5cGllUVZPQnJQaDhrWllONEljdWVaVVNXRzM0a19jV19aOTd1WEVpN0wwYXpFb3FQWURnMEtjVGlpRlgwOUdRVXdvQWhHMV9ZendWaGxZczhaQ3ZMOFJ4VXhSYUU2dDJsY2R1d2NzTGd4UlBhT0xVYTh4MzZjdnkzTkZn?oc=5",
+        "publishedAt": "2026-09-22T13:58:00.000Z"
+      }
+    ]
+  }
+]

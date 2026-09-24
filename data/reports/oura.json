@@ -1,0 +1,43 @@
+[
+  {
+    "company": "OURA",
+    "runAt": "2026-08-25T21:31:27.251Z",
+    "source": "backfill",
+    "headline": "Oura executing growth plan: HQ investment, Ring 5 launch, IPO preparation",
+    "signals": [
+      {
+        "category": "HQ Expansion & Real Estate Investment",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Oura purchased 500 Pine in San Francisco as permanent headquarters, signaling organizational growth and stability.",
+        "suggestedAction": "Congratulatory outreach to Oura's IT/Operations leadership; position Paubox Email Suite & Inbound Security as trusted vendors supporting rapid headcount scaling. Mention HIPAA alignment if they're handling patient data or health analytics.",
+        "sourceName": "Oura Ring",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NejB5U0czZWxXblRpb25lTWdMc0kwX2pyRW9vOGxKcGNqR3lNTTQ4RG9KUXY2Tl83a1JiaE1kMnk4b3FiOGZjOXBIUU9BM3p6SUFLTmpZaDlxWm93RnBn?oc=5",
+        "publishedAt": "2026-08-06T07:00:00.000Z"
+      },
+      {
+        "category": "IPO & Public Market Entry",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Oura pursuing IPO at $16B valuation with $3B fundraise, indicating significant company-wide growth, new hiring, and operational complexity.",
+        "suggestedAction": "Schedule a brief 'enterprise readiness' check-in with Oura's CISO/compliance team before IPO closes; offer Email Archiving + DLP audit to ensure audit-trail completeness for public company standards.",
+        "sourceName": "Yahoo Finance",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSHhWeFFYZFJYeHZZRTVSTWxWX1Z5YWhHaVNsb0pVSWQ0WkcyWUpOZWptVFNLRXozcnk3eUVCX2t3UUJSVUs0SmxDdzV0aUdLZUpEcndpQnZxbWtqREE5UGtZQjllaXlIcDNSSEs2eHBZcFJUQm1EZ210c0VqMXpkMDFuc3FGeFV1MW4tam02ekQxQ1Fq?oc=5",
+        "publishedAt": "2026-08-25T07:00:00.000Z"
+      },
+      {
+        "category": "Product Launch & Market Momentum",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Oura Ring 5 receiving strong positive press across major outlets (Forbes, Men's Health, WIRED, etc.), establishing brand authority in wearable health.",
+        "suggestedAction": "Reach out to Oura's marketing leader with a case-study / co-marketing idea: position Paubox as the HIPAA-trusted email backbone enabling Oura's patient/customer communications at scale.",
+        "sourceName": "Forbes",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGRFNjJ1eXA0TEZaV21PZmowVGFQcVR3bmh0Tk1sbG1tYlR1bXhWSTllcmlpZWRMUXEzMHlaLVNEbHJUZmsxeWViOHlaS2JqNUozQ01wNFdVR1BRaDFMbkx2NGhnZTF5QW9TRkMyazBkMklSSGpHS3YtYUc1cDYweVNiN1h5NkE?oc=5",
+        "publishedAt": "2026-08-14T07:00:00.000Z"
+      }
+    ]
+  }
+]
