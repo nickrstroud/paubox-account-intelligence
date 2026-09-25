@@ -47,5 +47,24 @@
         "publishedAt": "2026-09-14T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "Health Catalyst",
+    "runAt": "2026-09-25T17:36:42.069Z",
+    "source": "daily",
+    "headline": "Health Catalyst CEO transition and stock volatility signal leadership change and growth concerns",
+    "signals": [
+      {
+        "category": "CEO transition",
+        "updateType": "leadership",
+        "play": "retention",
+        "score": 0,
+        "summary": "Simeon Kohl appointed as new CEO; Ben Albert moves to Chief Business Officer. Leadership transition at public healthcare technology company.",
+        "suggestedAction": "Schedule a brief check-in call with the account contact to introduce yourself and understand any upcoming priorities under new leadership; use it as a re-introduction opportunity and assess any changes to vendor strategy or compliance posture reviews.",
+        "sourceName": "thehealthcaretechnologyreport.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTdmV0ZrN1czcmVTRUcxRWJIRnV6Zll1SGwybkRvTFJzbHZLd0t4VHJ0aVpmdVhuZ1NTSmUzbmloVnpsNEZlSXUyeFdxY3VIVmJqbWNCMGNDUTZPblBxU1B4VEI1aU9EUW9KUmo0RGJMZkhWd24tSm9pa1MwdklSNmdMQnZPUGllNVczZ3dONlBWYUNUWTlPdDZOZ25YSmJVUTgzeFNyVVF0RTFhdzFuVjJBaGVLcVhjTTB0TV9jY1FYRVlfSzBnZA?oc=5",
+        "publishedAt": "2026-09-24T12:01:58.000Z"
+      }
+    ]
   }
 ]

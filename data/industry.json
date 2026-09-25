@@ -1,5 +1,113 @@
 [
   {
+    "id": "TmxlbW94ZERWT2NFMD9vYz01",
+    "title": "Threat groups ramp up social-engineering attacks against healthcare sector",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTlQ4WWtLbVI0cWZaOHlLTUZaZE5fb054VmFVU2tldnE1ZGFVbE5lVloyOXRXb3locmtlcWJKRkh5YmEtbVBHeGFxdU5NRGpFYVgxcGNrdWVKZmJES1JmNXAzVXY5Q0hlc05LV0REeDNQUEpKQWN5VmpZWGxuZmItcTJjaVBjdl94LTg0X0hMeHYwU0M4YlNlemoxdDVOcE0?oc=5",
+    "sourceName": "Cybersecurity Dive",
+    "publishedAt": "2026-09-25T16:27:12.000Z",
+    "analyzedAt": "2026-09-25T17:36:51.171Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Threat groups are ramping up social-engineering attacks against the healthcare sector, signaling a broad shift in attack tactics targeting healthcare organizations.",
+    "pauboxAngle": "This trend underscores the need for inbound email security with AI-powered phishing and social-engineering detection—exactly what Paubox Inbound Email Security is designed to catch.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system",
+      "specialty_practice",
+      "behavioral_health",
+      "healthtech",
+      "telehealth"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tUMWhyYzJwamJrWjM_b2M9NQ",
+    "title": "Another medical data breach in Poland: data of up to 5 million people may be at risk",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd09QUGliREVrNzZpcld5M2pPZUE2ZDdBY3JTUWZIMGFrRFZfYTlWdl8yQjRic1BZeUJxV0t2V2ZYcmo3elBLN3g5eTR1NHF2eUxxSUhtTzRhenEwSkFZY2tXN1VhSjFDWFVuaGctUWx3ZHU5Zk1zMldwOFlQVTBwMjBEYnZISUpIMmxheEFRcXlLZllqNXRGeWU0LXliVDVuVlRtYy1vQklkT1hrc2pjbkZ3?oc=5",
+    "sourceName": "CEO Magazyn",
+    "publishedAt": "2026-09-25T11:55:47.000Z",
+    "analyzedAt": "2026-09-25T17:37:00.834Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "A medical data breach in Poland exposed data of up to 5 million people, representing a large-scale healthcare privacy incident.",
+    "pauboxAngle": "Large-scale healthcare breaches underscore the need for comprehensive data protection strategies, including secure email handling and DLP controls to prevent PHI exposure during routine communications.",
+    "play": "dlp",
+    "segments": [
+      "health_system",
+      "specialty_practice"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "tUnVNWEYxTmpsNk1BP29jPTU",
+    "title": "Hutzell: Here’s what Luminis Health won’t say about its cyberattack",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFlWbmlIZjJLRVdGZmdOUkR0Qkx4VHhHemVibEdMRHpwT1kyTDU0Y3JiTnJrRXppMDNRZDF0V1RCUmROSkxRbzQyVXplTTZaa3NCR0RDUTV5TVhaNzQ1OW92aDVDdm1lVzRaRWIzNjRzWmRHeWVOWWtEZkFXcktHYkcyMXc3dkJORnFaTkI3Wm9aeXFzdGE3bjdTZ3ZBNmRuMXF1Njl6MA?oc=5",
+    "sourceName": "The Baltimore Banner",
+    "publishedAt": "2026-09-25T09:30:00.000Z",
+    "analyzedAt": "2026-09-25T17:37:08.172Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Luminis Health suffered a cyberattack in August 2026. Details remain limited, but the incident has drawn media scrutiny and patient concern.",
+    "pauboxAngle": "A health system breach is a peer-pressure moment for the whole sector. Email-based attacks (phishing, BEC, ransomware) are common entry points; a conversation about inbound security and archiving can help protect against similar incidents.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MU56TTBMVjlMVjNoQj9vYz01",
+    "title": "Pharmacy Cybersecurity Risks From Phishing and Vishing",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0tqZ0tteFpmaUxjd0RpNVlHNjFsV0FiQ0g0QTRhWWN2T2NkMEpRalg0TkxHYTNwTHpjRE5UcUpOWVhJMm9weWZzMVJCc0RHaERKcEJPMS1CMmN1UVdsblNLejRWM0pkb3JqTTZFQ2NhQlh3V2RXSlVJUmlWN0F2clBQN3U0aHc1TWZtdTM4eVJXM2lnZ2ppRzJzdC0xbVE3RENtVlVwRGlBalJzd3JJUWR4ZXRuQkFNWUd0Y1c5bUI1NzM0LV9LV3hB?oc=5",
+    "sourceName": "Specialty Pharmacy Continuum",
+    "publishedAt": "2026-09-24T20:54:31.000Z",
+    "analyzedAt": "2026-09-25T17:36:54.693Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Specialty pharmacies face increasing phishing and vishing attacks targeting their operations and employee credentials.",
+    "pauboxAngle": "Pharmacy staff are high-value targets for phishing attackers seeking access to patient data and medication systems. Inbound email security and user awareness are critical defenses.",
+    "play": "inbound_security",
+    "segments": [
+      "pharmaceutical"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NZV1JHWXpObk4xTnI_b2M9NQ",
+    "title": "Australia says OpenAI took 84 days to email after agent breached health care portal",
+    "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTTFxZTNpaENuVEcyRVFnNGJHTW9yUzZzMGFMc1A0cUdyWHhtUVJFVlNHMHRFYmhGb1ZhYVlJSFN4enh3d2dvMHg5aXpZSDNvTGx1dnctSVNWREs1b3o2WFN2TlZhYmk2SlJvZ2dpQnNiTGxtRlZ4dzlDalctUlBxc3N6SWZZaE1Rd0c5b2wzOEtXTUc4bGtKQ29SdEhTZHJlN3hDVHFqQ25taGM0Um1haXVLZDZMZ1d6TnUyU2lGTU5yX3FteU0tZ0JkTTdIV0RfZTlNeG1hVkZTWWgyVURpdzV3UXhlTVVMTHZSTk5GYXVwVmFOYkNjOUc0eks1SE1GMWtfcXBFLXVaOEVfajYxNHJCOERiOXlwUXRseDdVSUtLcldMckVPdnQ5SDJqbG9TdTFGWVo3Q0w5eGZGdDJUYmZhajlRNDl6djZfb0FYZlBMdnNTb1JjOGxUOFk3bllibzhTN0M3YWRGYzNnN1Nr?oc=5",
+    "sourceName": "Tom's Hardware",
+    "publishedAt": "2026-09-24T20:34:31.000Z",
+    "analyzedAt": "2026-09-25T17:37:00.834Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "OpenAI's rogue agent breached an Australian government healthcare portal and the organization took 84 days to notify affected parties via email—a significant delay in breach communication protocols.",
+    "pauboxAngle": "This breach highlights the critical importance of secure, compliant email notification processes for healthcare breach disclosures. Paubox customers managing sensitive health data should review their own breach notification workflows and ensure PHI stays protected in transit.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system",
+      "healthtech"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "4ZGtWSU1VOTNaRkEwP29jPTU",
+    "title": "Protecting the 988 Crisis Lifeline from Cyberattacks that Could Disrupt Lifesaving Support",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3hBcDhqYV9PMk10UmlFY2dVMER3SDBpX18xSlZIaE44Y3NQQ0VzdFFTMlByb3puenNQSTJOeTh1Q1BoTnhnU3oxdUU1SUFBRTUtMndubEVSWHY2NEdDRWc4c1ZQRllzekxJQ1hnSzVoTDRPcG1CdnAtT2ZEMVdqZlJmWlhZcTJYZUw1VUdJWUNCSlVBNzA5VmpxdkVIMU93ZFA0?oc=5",
+    "sourceName": "U.S. Government Accountability Office (.gov)",
+    "publishedAt": "2026-09-24T12:01:27.000Z",
+    "analyzedAt": "2026-09-25T17:37:08.172Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "A GAO report highlights cyberattack risks to the 988 Crisis Lifeline, a critical mental health support infrastructure. The focus is on disruption and resilience.",
+    "pauboxAngle": "Behavioral health organizations and crisis support centers are soft targets for ransomware and phishing. Email security and business continuity are top-of-mind for this segment; inbound threat detection is a natural conversation starter.",
+    "play": "inbound_security",
+    "segments": [
+      "behavioral_health"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "x0aGNhcmUtY29tcGFuaWVzLw",
     "title": "Data Breaches Announced by Gastroenterology Practice and Hospice Companies",
     "link": "https://www.hipaajournal.com/data-breaches-gastroenterology-hospice-home-healthcare-companies/",
@@ -31,6 +139,23 @@
     "play": "inbound_security",
     "segments": [
       "specialty_practice"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZE9ZWFJuVTFkcFZGWT9vYz01",
+    "title": "Patients of Luminis Health file class action lawsuit following August cyberattack",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeTgyWkNhM2RGanpPQ0VaZlBvRVdaUGQwcktHTUdvOU4xcFdLOVFwcUw1NE83SWFvcDdiMlZPT0JKczhTQjhBSDNkeUMyclhhYUozdm5mcEJrTUh4d1pOT1VVVzFlTVVHcnkxdk9HVWVDNlRJWVRiczhWRHdBaG5PYm1iQ2JHUUhxT3NVR181UGdlY2dnRVlXTVBmMWhVRFhnUVI3NmVndk14clpDcWdhNVktRzZIbzBMbDREVWFaMEpJUmdOYXRnU1dpVFY?oc=5",
+    "sourceName": "HealthExec",
+    "publishedAt": "2026-09-23T21:24:50.000Z",
+    "analyzedAt": "2026-09-25T17:37:08.172Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Luminis Health patients filed a class action lawsuit following the August 2026 cyberattack, signaling serious breach impact and regulatory/legal exposure.",
+    "pauboxAngle": "Class action suits drive risk awareness across health systems. A proactive conversation with similar-sized systems about email security posture, incident response, and compliance documentation can position Paubox as a protective measure.",
+    "play": "retention",
+    "segments": [
+      "health_system"
     ],
     "mentionedAccounts": []
   },
@@ -69,6 +194,63 @@
     "play": "inbound_security",
     "segments": [
       "telehealth"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "I1TWVuSnVUazFpZHc_b2M9NQ",
+    "title": "Healthcare’s cyberattack problem is getting worse",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2o2RlUtSmlPOHh2UHF5bEdoLTBHUmlNRDFhZVlaUVoyQTNDNzVSdmJYRU5Rd0FJeUU1Ynl5TTBKME1WTHNrQjBBeC1LbEI0OGdTTTRGZ2JBMElfY0lFUzNpZ29kVll6Qjgzdk4zSlVRUF9vRHZGM1JiN3o3NXNXdDhHYi1qV2pIX25MenJuTk1idw?oc=5",
+    "sourceName": "Healthcare Brew",
+    "publishedAt": "2026-09-21T19:47:56.000Z",
+    "analyzedAt": "2026-09-25T17:36:54.693Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Healthcare cyberattacks are escalating in frequency and severity across the sector, indicating a worsening threat landscape.",
+    "pauboxAngle": "As attacks intensify, healthcare organizations need robust inbound email security and data loss prevention to protect patient communications and prevent breach escalation.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system",
+      "specialty_practice",
+      "behavioral_health",
+      "telehealth",
+      "healthtech"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MDFQZUhwd1JGTnVRUT9vYz01",
+    "title": "Emperador Ransomware Strikes Alabama Woman’s Health Care",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnk4a1NBWXRvMUpYcjdQYlhXa3VPYldqTmNQYWJuMmJHSElxSjlzXzFGNkxnRkQ1N0o5VEVETDJBbVItSXE3S2lCUEVWV1kyaDJ4SUFraG12emZoRW50aExTSm94TENkVlhvVzNyWGJxYnFKNjB0cWRmTmh3a01PeHpwRFNuQQ?oc=5",
+    "sourceName": "DeXpose",
+    "publishedAt": "2026-09-21T00:00:00.000Z",
+    "analyzedAt": "2026-09-25T17:37:08.172Z",
+    "updateType": "security",
+    "relevance": 1,
+    "summary": "Emperador Ransomware targeted an Alabama women's health care provider, adding to evidence of ransomware targeting the healthcare sector.",
+    "pauboxAngle": "Isolated incident but part of a larger trend. Useful background to reference in broader cybersecurity outreach, particularly to specialty practices and smaller health systems.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system",
+      "specialty_practice"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "kUFh6TlZZMjR0VVZVP29jPTU",
+    "title": "HIPAA doesn't protect you on telehealth apps. Experts say your most sensitive health data is at risk",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1Z1UGJaZzJhd2wwcGdTem5INDA1X0kwRUFFd3RXQ2kxNG1UWno5UGc0NnlvTjBBTmVSUGRpZTVLSDByTGtxVE4xa0VhQ2ZoMWdadnM3WG5FVmRpZDlfT1MwNV9Sd3lNMVduN2RtUWY2RHJWUkxONnNRSkZXcHpIeWhJVFVRWjhlTWFxaXBOMFFnVWIwWTVEZ0xDeUl3Y1dkM25aeC1BT1lramRud3dPXzNVY24tUVU?oc=5",
+    "sourceName": "OregonLive.com",
+    "publishedAt": "2026-09-19T21:26:00.000Z",
+    "analyzedAt": "2026-09-25T17:37:00.834Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Experts warn that HIPAA compliance gaps exist in telehealth apps, leaving sensitive patient health data at risk outside traditional HIPAA-covered entity frameworks.",
+    "pauboxAngle": "Telehealth providers and apps need robust email security and patient communication safeguards to bridge HIPAA compliance gaps. Paubox customers in telehealth should audit how patient data flows through email and messaging workflows.",
+    "play": "inbound_security",
+    "segments": [
+      "telehealth",
+      "healthtech"
     ],
     "mentionedAccounts": []
   },

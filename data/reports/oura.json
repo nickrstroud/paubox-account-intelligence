@@ -39,5 +39,35 @@
         "publishedAt": "2026-08-14T07:00:00.000Z"
       }
     ]
+  },
+  {
+    "company": "OURA",
+    "runAt": "2026-09-25T17:36:42.890Z",
+    "source": "daily",
+    "headline": "Oura IPO signals major growth and expansion opportunity; assess data volume and compliance needs as organization scales",
+    "signals": [
+      {
+        "category": "IPO / Capital Raise",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 2,
+        "summary": "Oura is raising $2.2B in a US IPO at a $15.6B valuation, signaling significant organizational growth and expansion. As a consumer health wearable company, this scale-up will drive increased internal operations, team growth, and data infrastructure complexity.",
+        "suggestedAction": "Schedule a conversation with Oura's operations/IT leadership to discuss how their growing team and patient data volumes will impact email security and compliance posture post-IPO. Position Paubox Email Suite + Inbound Security as essential for managing increased insider threat surface and DLP needs across a scaling organization.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVZKNUpyaDZTNXFXMlRPZHNzTzVHeU9wQ0ZOTmxnQi10UzFiRVFMa3E1ZmpFaDJMUTFIU1F6OFNmaWNnTTlYLUNkN0kzdHo0NE9oZUk2Yk9adWtwQmp2cVZLeERHRnAteXRUWGRuT2didzJxLVBJZ2tCMjZjVTJrejRYMU1aaW92RVlGRXpQekhvZ1FYbkZhUDY3enlFWnY1WU5HOVV6Z2kyNTg?oc=5",
+        "publishedAt": "2026-09-21T13:53:04.000Z"
+      },
+      {
+        "category": "Market Visibility / Press",
+        "updateType": "brand",
+        "play": "advocacy",
+        "score": 1,
+        "summary": "Multiple major publications (Bloomberg, TechCrunch, Inc, Fierce Healthcare) covering Oura's IPO. Strong positive brand momentum and financial validation present advocacy/case-study opportunity.",
+        "suggestedAction": "After IPO closes, reach out to Oura's marketing/communications team with a case-study or customer spotlight opportunity—highlight how Paubox scales with health tech growth companies managing consumer health data.",
+        "sourceName": "inc.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkpOUTR1X2RqcFAzRTI5cWNnZjN6Z2s0V19kZjN4QzZvU2gzdWQtcWpkRzltcDZDdlItUjdTRDhFd1RLbkNWU2haT25nY01MaVd4SWtSbFJCYmNKbHhPUEttQ1NuQkg5WV9GV2pRck1rZ0tJQm0yRFJuSlR1SHk3MWZVRXRUMHhnNUt6UWtrZFFObHZOOE1LX1JWRy1OdnhXZGpUVWFta2NaZ3BVcElr?oc=5",
+        "publishedAt": "2026-09-21T19:38:10.000Z"
+      }
+    ]
   }
 ]
