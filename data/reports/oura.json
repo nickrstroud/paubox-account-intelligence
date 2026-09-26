@@ -69,5 +69,24 @@
         "publishedAt": "2026-09-21T19:38:10.000Z"
       }
     ]
+  },
+  {
+    "company": "OURA",
+    "runAt": "2026-09-26T16:48:37.586Z",
+    "source": "daily",
+    "headline": "Oura IPO oversubscribed; consumer wearable growth signals potential B2B enterprise expansion",
+    "signals": [
+      {
+        "category": "IPO / Capital Raise",
+        "updateType": "expansion",
+        "play": "seat_expansion",
+        "score": 1,
+        "summary": "Oura's IPO is significantly oversubscribed (4x), indicating strong investor confidence and capital influx. This positions the company for growth initiatives, including potential enterprise health programs and corporate wellness offerings that would expand email/marketing volumes.",
+        "suggestedAction": "Schedule a call with Oura's corporate marketing or business development team to discuss HIPAA-compliant email needs for any new B2B wellness partnerships, corporate customer programs, or patient engagement initiatives they may launch post-IPO.",
+        "sourceName": "Bloomberg.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTJWaVV3RnYtUGJiem92aG05WU1ValZldmlmNmJ6amYwYmpoeVJrTFR5c2pIUDJtcVN5TFVYNTh5T20xMFZuTEEzSGhpZldFd3dFalJCbjBWZ2tWTnBIMXJBSG1jM3ZOMWZsMXh5NGVSR0xQQTFhRDFjdkpvcDVPSXhwYzFQZzV5YXFmUTI0RFppblBpNndVTTlvQWs2Q2xfLWtkUGMxS3JLSUpLSjVIeS1WQQ?oc=5",
+        "publishedAt": "2026-09-25T19:32:00.000Z"
+      }
+    ]
   }
 ]
