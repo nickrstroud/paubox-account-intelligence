@@ -1,5 +1,41 @@
 [
   {
+    "id": "UV1dzd01VdE5ZMG94P29jPTU",
+    "title": "MedImpact PBM breach leaves employer plan members' health data exposed",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHMyT19NSWgyWGd4NGRfaTFIaHFHOG96OFpQX0NPYzdrQ3VZQjR0OGxWUE5IVV9aSHQ4QW1CZnNYbE51bVVMM2drV29RVzBEZlZKSUdFMlRGTVpEbFA0R0dVdzFXZDZPaHZVU0tJbFlVaXBLbDJ5WURteGpRZENtbVd5VXNfMTZLY1QzYWdOSkFuZUNiTUFiR09hTE9tRy1BWVB1a2tWbWtTQ2NKN3ZYeV9OSk1HSU9fdHBOQTAxRlhlWWR4S3hTWWswMUtNY0ox?oc=5",
+    "sourceName": "Insurance Business",
+    "publishedAt": "2026-09-28T12:59:52.000Z",
+    "analyzedAt": "2026-09-28T19:53:43.370Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "MedImpact PBM breach exposes health data of employer plan members.",
+    "pauboxAngle": "PBM and revenue cycle breaches signal systemic data protection gaps in pharmacy and claims workflows. If email-based data sharing is part of the exposure chain, DLP and archiving become critical compliance levers.",
+    "play": "dlp",
+    "segments": [
+      "revenue_cycle"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NlY3VyaXR5LWluY2lkZW50Lw",
+    "title": "California Critical Access Hospital Announces Cybersecurity Incident",
+    "link": "https://www.hipaajournal.com/california-critical-access-hospital-cybersecurity-incident/",
+    "sourceName": "The HIPAA Journal",
+    "publishedAt": "2026-09-28T06:27:45.000Z",
+    "analyzedAt": "2026-09-28T19:53:43.370Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Modoc Medical Center and Vista Del Mar Child and Family Services in California announced cybersecurity incidents affecting patient data.",
+    "pauboxAngle": "These breaches are a peer-pressure moment for other California critical access hospitals and behavioral health providers. If the incidents involved email-based compromise or data exfiltration, it's a direct inbound security and DLP conversation.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system",
+      "behavioral_health",
+      "specialty_practice"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "IcHNabDlPVWxGM09BP29jPTU",
     "title": "MEDIMPACT DATA BREACH: Edelson Lechtzin LLP Launches Investigation Into Exposure of Social Security Numbers and Health Information",
     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNmFpYXhIMjczS3ZvRlgtb3VERG5SV0RzekxSVkRvTUZPLW4yY3pFVVZmcUFHS3dVa3RyU2VLUDdnTlFLaml0Q3QzY2N1cTZjQXVwOXgzWWx1TjlCSzFGUE16cFJYSzRLR0ZkMnRpQzlrRGhPSS15Ujd3TlFWR28yUnd0OXphNk0xd2ZsYXhxcE1fQ2RGVGM5bEtFTW1OU09LWjJQcnZnVVotdlF0MHRZUWVkeXBYX19xaHIzdFlEVGFwQjRGelpCYWtQVHNXcEduMU5CemQwenFSMW05YnJmeDRjcTRZZkVTWFJQYlZySFJJaWhEOERiWTVoc3pKaDVucGtkUklNczBKbHpsZl9OUlF3OA?oc=5",
@@ -255,6 +291,23 @@
       "telehealth",
       "behavioral_health",
       "healthtech"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "I1ZFhkaFYwRktWbEU_b2M9NQ",
+    "title": "Telehealth companies keep exposing their customers’ medical data. What should they do?",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRnJEdXVCMnZXbGlLaXRtQjZhUWhxZGdvU0lEaDkwaE9sRWpYRUlDUjdOeEcwdW41ckVqejJwVkxxNEp6ME9ZdUJfM011eGZDb0ZINzBSUElMM2lvNU5ZSWdiUXBxQ0pTX0k2aEVIMU5ERGZpcU9uS3dhWWhlZy1GckFPLThWaGtjQ05YbklNTXVBa1lLa1U5NWNkYXVGU1FySTFRQUJpYVpOYnNBLWdaRUcyUENNQmVxeHR0amR5dXdhV0FKVlE?oc=5",
+    "sourceName": "Sentinel Colorado",
+    "publishedAt": "2026-09-23T11:54:01.000Z",
+    "analyzedAt": "2026-09-28T19:53:43.370Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Multiple telehealth companies are exposing customer medical data through insecure practices and configurations.",
+    "pauboxAngle": "Telehealth operators are struggling with data protection basics. Email misconfiguration, insecure patient communication, and DLP gaps are common vectors; this is a segment-wide vulnerability conversation.",
+    "play": "dlp",
+    "segments": [
+      "telehealth"
     ],
     "mentionedAccounts": []
   },
