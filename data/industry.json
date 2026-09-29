@@ -1,5 +1,133 @@
 [
   {
+    "id": "ONlRUazJTVzExZFVFP29jPTU",
+    "title": "DOJ Puts FCA Target On Health Data Security Lapses",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWRtOURabHNMNXFubS00bnB1QXotaXlkbkwyUldvVFhoem5fRnVSQVROcFlWLUhHYkMzeHZ4SmZHOGVkYXZQN2ctS1EydEljejZ6eHh0ZzRpNDdQUXpXSjFLaEhOSmpsUDJFMVBXZ0NpYm9odXlIbi1FSUhyalZYWEprYmNsd2NxX2Z2M09qSmFycDRx0gFWQVVfeXFMTTcyVUZIQXcwTDZsbjRCMUpRZTVHNWhNUGFOeE8xWXowUXJKR1BVV08tVDhGcFYzMlhrelYzWlhsOHh1amdaX0gyM3ZCR1N6TTk2SW11dUE?oc=5",
+    "sourceName": "Law360",
+    "publishedAt": "2026-09-29T17:28:21.000Z",
+    "analyzedAt": "2026-09-29T18:21:49.212Z",
+    "updateType": "enforcement",
+    "relevance": 1,
+    "summary": "The DOJ is targeting health organizations for data security lapses under the False Claims Act, signaling increased enforcement focus on HIPAA and data protection failures.",
+    "pauboxAngle": "FCA enforcement over security lapses underscores the compliance and liability exposure for healthcare organizations; a timely reminder to existing customers that DLP and inbound security are part of a defensible security posture.",
+    "play": "none",
+    "segments": [
+      "health_system",
+      "specialty_practice",
+      "behavioral_health"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "cGVERnhMWFpRVGxkcj9vYz01",
+    "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXd5WGZqYjdKZVB0RHBENHJEcU9TYkNzWTh0YmlONVVrcXcwdThoRVd5ai1haXhFNl9DVEtEcmp0TDlkQl9neGNNQzdlLWhjenI0R21UZkM2YUpxeWFvX2VsT3RfQm9aWEh6UHY4REVMZDlNQ2RrU3hBWnRtaXVCOW4xajVZeWY2VXpHd2duckd3VUxjdXZWcnFJcElKS2ktUUVfNWRpXzJiZXdYVGVWQWZyQkI3MmliSWd4RVlrQ1VXdl8tUFRUdHRpeDFxLXZQTldr?oc=5",
+    "sourceName": "Microsoft",
+    "publishedAt": "2026-09-29T15:00:00.000Z",
+    "analyzedAt": "2026-09-29T18:21:44.099Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Microsoft reports Star Blizzard has refined phishing and malware delivery tactics using the RedFlick technique, a threat actively targeting healthcare and other sectors.",
+    "pauboxAngle": "Star Blizzard's evolving phishing techniques are a direct threat to healthcare inboxes. Customers need advanced AI-driven inbound email security to detect and block these sophisticated delivery methods before they reach users.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system",
+      "specialty_practice",
+      "healthtech",
+      "behavioral_health"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "lYWx0aC1kYXRhLWJyZWFjaC8",
+    "title": "Astrana Health Notifies SEC About Social Engineering Incident",
+    "link": "https://www.hipaajournal.com/astrana-health-data-breach/",
+    "sourceName": "The HIPAA Journal",
+    "publishedAt": "2026-09-29T13:46:30.000Z",
+    "analyzedAt": "2026-09-29T18:21:44.099Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "Astrana Health, a managed services organization serving healthcare providers, notified the SEC of a social engineering incident affecting its systems and potentially its healthcare clients.",
+    "pauboxAngle": "Social engineering and phishing attacks often target email access as the entry point. Astrana's incident is a peer-pressure moment for its MSO client base—proactive inbound email security and staff training are critical to prevent similar breaches.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system",
+      "specialty_practice"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "FWdWFFdzFTbEUxUVE_b2M9NQ",
+    "title": "HIPAA Risk Analysis: OCR Fines Ambry Genetics $700K Over Breach",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1Z0bjZUWEI1ZnlMdTNGZElhWXUxMEQxbEVMemFJa3ExUHVzZzAwSEhYRmhzQVMxV0hDMU05enFkVi13S2Z3bUxicEp4MEpKcTFsdnV1eVNZWmQtTVF5ZWo1a1JyTHpKb1lzMlNvVHFSZHlfSk5JOUY4Mzc1SmZQZXpCWnpGTkY3N1dZejQtN0wxZEwwV0t5a1lZX1RMSE5CdHBKdnExa2cxYWlqY1VuaEw1SlE1QQ?oc=5",
+    "sourceName": "telehealth.org",
+    "publishedAt": "2026-09-29T10:05:00.000Z",
+    "analyzedAt": "2026-09-29T18:21:44.099Z",
+    "updateType": "enforcement",
+    "relevance": 3,
+    "summary": "OCR fined Ambry Genetics $700K over a breach linked to inadequate HIPAA Risk Analysis practices, highlighting enforcement focus on preventive security controls.",
+    "pauboxAngle": "OCR enforcement on risk analysis gaps reinforces that organizations must demonstrate concrete controls to detect and prevent email-based threats and data exposure. This strengthens the business case for inbound security and DLP as compliance evidence.",
+    "play": "inbound_security",
+    "segments": [
+      "specialty_practice",
+      "healthtech"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "BMTm0xb016Sm5TVTA_b2M9NQ",
+    "title": "New CalPhishing Campaign Turns Internal Email Forwards Into Credential-Stealing Lures",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqLXIyMjlyTmI0MkZIeXNhaWlrQXdVZ0llQXhQM3NoUWtWMUJmZ1hZaXp4SVNVbHk2aE1RckUyNHBUeVdTZ2gzNmx6RGlQaWhHZEZaekc1SHlFeERBa3hCUDdYVThqSDZkU0RRdnNlMkhqSDVmQXpLNm1oMzJnSU0?oc=5",
+    "sourceName": "Unite.AI",
+    "publishedAt": "2026-09-29T02:53:45.000Z",
+    "analyzedAt": "2026-09-29T18:21:44.099Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "A new CalPhishing campaign exploits internal email forwards to turn them into credential-stealing lures, targeting organizations across sectors including healthcare.",
+    "pauboxAngle": "Email-based credential theft via internal forwards is a direct threat that inbound security must intercept. This is a timely conversation starter with customers about advanced phishing detection and employee email behavior.",
+    "play": "inbound_security",
+    "segments": [
+      "health_system",
+      "specialty_practice",
+      "healthtech"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MUJKVVdKRFdscGxMUT9vYz01",
+    "title": "Astrana Health Tells SEC Hack Exposed Sensitive Data",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2MxYjRNUjVCZWI1Q2I1UFZwRWNId1ZOYlNoTG9pdE9NYzRJN3VGQkc3Q0FNelZ6NkxmbXV3ZWtxdEhlSFBPaWtMNXJkTWpjbENWSk83WEJwTmJxRDhWLVk5OHBmdWJ3RjJqQzBGeVhhR1c5MVlxNmtWbXdCcTFPLWd2aV9LZUhRVDBWQjhFN1BJUWJDWlplLQ?oc=5",
+    "sourceName": "BankInfoSecurity",
+    "publishedAt": "2026-09-28T18:47:58.000Z",
+    "analyzedAt": "2026-09-29T18:21:49.212Z",
+    "updateType": "security",
+    "relevance": 1,
+    "summary": "Astrana Health disclosed a security breach involving exposure of sensitive data to the SEC. Details on the nature of the breach and data types affected are limited from the headline.",
+    "pauboxAngle": "A health plan breach is a reminder to all payers and health systems of the risks around email-borne data exposure; relevant as a category risk for Paubox customers managing PHI in transit.",
+    "play": "none",
+    "segments": [
+      "health_system"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "SamNYaEpMVzVZYkZFP29jPTU",
+    "title": "Fishers dental office reports ransomware attack on patient records",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWYxdU9pbDlJdWRWMndRNXg3aW9BLXlTX0JQVjBaUHdyRzVoaHVzY1hIeWxNRVlsQnlxS215bFVjNXZ6c3daTUVMd3Y2YkhTczhtZnpZZFJhZXdlZ2NST2tNM0FMaGN0VlFubkliR0NNaWoyeVRvc29uZXBxS3Ztc3RjcXhJLW5YbFE?oc=5",
+    "sourceName": "LarryInFishers",
+    "publishedAt": "2026-09-28T13:30:20.000Z",
+    "analyzedAt": "2026-09-29T18:21:49.212Z",
+    "updateType": "security",
+    "relevance": 1,
+    "summary": "A dental office in Fishers reported a ransomware attack affecting patient records. Limited detail on the attack vector or scope provided.",
+    "pauboxAngle": "Ransomware attacks on dental practices are a segment risk; if email was the attack vector, this reinforces the value of inbound security and endpoint vigilance for specialty practices.",
+    "play": "inbound_security",
+    "segments": [
+      "specialty_practice"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "UV1dzd01VdE5ZMG94P29jPTU",
     "title": "MedImpact PBM breach leaves employer plan members' health data exposed",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHMyT19NSWgyWGd4NGRfaTFIaHFHOG96OFpQX0NPYzdrQ3VZQjR0OGxWUE5IVV9aSHQ4QW1CZnNYbE51bVVMM2drV29RVzBEZlZKSUdFMlRGTVpEbFA0R0dVdzFXZDZPaHZVU0tJbFlVaXBLbDJ5WURteGpRZENtbVd5VXNfMTZLY1QzYWdOSkFuZUNiTUFiR09hTE9tRy1BWVB1a2tWbWtTQ2NKN3ZYeV9OSk1HSU9fdHBOQTAxRlhlWWR4S3hTWWswMUtNY0ox?oc=5",

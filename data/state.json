@@ -1,7 +1,7 @@
 {
   "accounts": {
     "mark-cuban-cost-plus-drug-company": {
-      "lastCheckedAt": "2026-09-28T19:53:29.705Z",
+      "lastCheckedAt": "2026-09-29T18:21:29.647Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmZYWEJlSnNub1ZPbkFNcEctU0RpZnIxNEdZSllIMTZoeER0XzJROTJtaUZpODIxS21iRzA5bkVObjI0WVNodDdQSXJyUHRFbEV4SV9tdnhUTk9od2kxYzRnVTQxXy1Pb2NNTzRnOFJsLVRJUmU4SmFycmRXZ2g3R1hfeWxKQm9lR21yTVJ2S1hBT0Q1TFpHYnpFYzhYUUhwT2dlRDQ0ZE1mWjQ?oc=5",
         "t:paytient expands prescription benefit platform with goodrx and cost plus drugs",
@@ -65,7 +65,7 @@
       ]
     },
     "north-mississippi-health-services": {
-      "lastCheckedAt": "2026-09-28T19:53:29.643Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.726Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2RXbkoyX09wTmVSb3o1YTdmRnkxSGFwTUZidnVtVUF6a01xODFMWWtmM09sT0JRZE9EV1RUQjB1Y0JtLXdBV3JpOVhEb2hxc3R6b2ZtZ24wV0ZCb0ZkbENMU1B1QzcwTVFDMzRsYkQ3RFFOeHBDcnJHSnVtem1BRHdncXhrVDRiMUd6ONIBoAFBVV95cUxPS1l0UHJtRXNmYkVMWjdUVEEtN2ZmR2JGdHRHQ2dhTHlHQjR1WUdWbVpHR3hfYS1jQ200Q0ZHaWVPVGg0SlVvRWlGUVpEMzBzLWxQalRQMHRJNWQ5MXQ3cUlqZ2JHMU51QWlXV0xUd1NHMDJxcXFmMlZDMHhSRFcxd1NNd3NjWmstbmVSMUx6QkUtcFB6YXBKT3pLT2xyV3JR?oc=5",
         "t:wellness wednesday neck and back pain treatment options",
@@ -150,15 +150,27 @@
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWYySkxzQldWQk5SWWxWdnlGT215enNBZ1drTlBvZWticC10Qkt4NUp4bk13VWJhRUlUQ2JsNFFHbjVWeEhLaUJwOEpxYURIZktGbWZYU1FGaDFDWnRQWHo1MTNFQW5Qc1RFNjhzMkY3ZmdmV1dnYlFSaUZWZkFqemRsMExYMDY4cVlEcHVURldNNUt3Vmc?oc=5",
         "t:danny hardin obituary 2026 corinth ms daily corinthian",
         "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tbFlVdF9PNy1KZmUyTXdOS3hxZnNOQWhhZTVLMXNJYkZtaTFuM1BldkotTHZ2ZzBfWVVWMlZoZ1U2UTdVNnpKeDlYaC1aMHl2V0x5LVprWGVMWVdxZ2hoalRqQTdTdkVNbUs5a2lGbVNKdk8ydWhOb1JFX19Cdw?oc=5",
-        "t:david dill obituary 2026 guin al veal memorial funeral home guin"
+        "t:david dill obituary 2026 guin al veal memorial funeral home guin",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVjdSZTkzeWR4WFBtajFLRXdodjZDMm92N25JUmFfNXBWRnl1OTJvdEhUd2ZCbnVyLTNPM0pwWGRsNDF1V3BjRFBEM0tMb2ZMQjduWU5TN3VZblB6d1ZVQVFwN1YxZDhGMnFlQkZ5X3RZQnR4NkFzN1lQNDhXUFE5MTd5Tk5SMmNld2F4WThBTEVJSjlUdWlNSHA5bXF4UlBVVS1lakVRb3hxT1F5WGw0U08tc1I0Z09TMU5abjRzem93WWdLbUlIUFJpX2k2bng4Z3ZPUHJEYWVVak9XdThCNXpXUlEtNk15bXFhaTJ3?oc=5",
+        "t:not all hernias are alike neither are the surgeries used to treat them",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tZGxTeVlhT0poN2JLc1IzcDdvZVBzMXZxN3RyQlZXSVhydllzV3lxV3FxTHRwbGllWWNlRDE3eDQzRmxiVFN1TGZNZC02V1I4azJ0X0lHMlNaamJqNHZYVzd4eUpxYnlYVXA1SkJVZTIxSWlWaHNZS09HSQ?oc=5",
+        "t:carol jean patterson obituary kesler funeral home inc baldwyn ms",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1RKRzdlb2d5T2FURzFQalY0Rk83RDNGanE1cngtNjVFeFZlZHVuV1lfLWd5emlVTG1vby01N0pYVmdFQzZhN3BweFZkWGpGcXlmTXNsV2FCTmZ1MjBJZUFEWl81MS1iOHNkRHRsZ19Jd2N5Y1Jtb045bzc3dEd2Uk5aS21DWXBtaVBfYWtFcHI?oc=5",
+        "t:brenda hamilton obituary 1955 2026 pontotoc ms the daily journal",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0NOUVRuMHhzbldPbUJ3eVhJNWNSX0hHRm94WWNLWFVPV0hScGRiaFJfaVdGTGNwZGRfV2lCMFFqRlIzTnFTTnBPNEp5OTNjSHFfNHc2SmQwdEgzZTU2dVFFQkltNlZBdjVvVS1sdFFxRV9sSnVyX0w1Z3VsczlTRWxqTG9IcjlqWVJIN25pcU5GWFlrNlE?oc=5",
+        "t:sara mayhall obituary 2026 corinth ms daily corinthian",
+        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbXFRVTA5cV9TdHVXVWxlb2RFNG91Ym5CZ1lsQVU1TkxWRmxXZnllb1hsZ0ZGd3VVbzExQUFqbVlRNFM5ejZpNG1NMGllWHVXSFpHRkpScEpQdWpNYWFNQkZIRHNoTGJId2duaklIZzJQd3B4RVRTRXFsLWhtczA2SHY3Z2ZZNlVLRlo4S1BwN3VGaEdWTjBKWkFsRFo4Q3VvTVZKVkc4eFZyR2Vfb3V0MGs5QkJ2eHpsbEJLMDNvSElxQ253ZDE5MDFvN2M4bUdPdXpJb24xaWtsUDBJdUZIbmtBRXJSUF9Vd1FwX05LTQ?oc=5",
+        "t:dr james buck shirley",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0ppQlY0dVZpdFEwaFVqa2RZQzJvYWg3NE53MlItQ19sNi1OTklwNUNSVzVJSHFkRUxXZ2RZQ1dQMmFvN2YyOTlfLUM1dXE4bWxQWXcxVFhvMFRIOUVOd0xxOFJidmRINXlaSWpxN084ZmcyZ3NpUjd4QkdXU3lFNlhEYnpEVUNTZkVWSmFpMlE?oc=5",
+        "t:clemon frierson obituary 1967 2026 okolona ms the daily journal"
       ]
     },
     "soteria-mental-health": {
-      "lastCheckedAt": "2026-09-28T19:53:28.950Z",
+      "lastCheckedAt": "2026-09-29T18:21:29.975Z",
       "seenLinks": []
     },
     "revspring": {
-      "lastCheckedAt": "2026-09-28T19:53:28.475Z",
+      "lastCheckedAt": "2026-09-29T18:21:29.775Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGo3ZXR6VGNOQkRVMFUyTTRyMnd6eDY1UDR6LVV4akRjT2h2X25ZY0dVdE9aMGpBc1Y3ZnNjNUlIakxfcmMwaVYzMEhEazRvYkRaQlQzS1FZX1dxelFfc0ZMOWEyZ3prUXJ3T2N1bms2MXp2RzdVdFdfLUZDSTFnZXNaV2s2ZDQzZDlpNW1HTFVvT0RxeXZLYVhvdkFLTU96enFWV1BLZU1uXzFo?oc=5",
         "t:patientgenie and revspring partner to connect ai scheduling agents to live provider directories",
@@ -167,11 +179,11 @@
       ]
     },
     "rlh-insurance-benefit": {
-      "lastCheckedAt": "2026-09-28T19:53:29.503Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.271Z",
       "seenLinks": []
     },
     "devry-university": {
-      "lastCheckedAt": "2026-09-28T19:53:29.173Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.929Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lNUp3clp0X1BOUWFRckNZU3prSUFMSGZZSnVjOEZRaWRPNGc1anBNbGx3SEZwRFEtVURDYTlWeXRwYi1kX3lpOVFZNGdmTmNhQWREa2RkZEtBLUZxd0tZR1FCd3docnliNWc?oc=5",
         "t:ronald dean crider s memorial wall",
@@ -232,23 +244,33 @@
         "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCU2ZCZ0VmbEtQc1ZnYVluR3BkczF3c1hYaHVJNk1oZnVJaHd6S3NsaVFpaHY5MDQ3bVFlQXlyNGN4Sm9FSXlPY01DeERQclA0ZkIwcGZrX2s1c3Bh?oc=5",
         "t:michael joseph polito",
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHplSC03bG9oSXktZkNja3J3UGkwcFo2VFZRRWFjNmF5NWxYNi1NbHZwRUtKbUlGLWozWnZvY056MlphVDVucHduLWtJZzIwOFVfM1dGWVYyTHc4WGFvYThDN0FlY0wtRnRNLVBkdUUzcUtOelF6eVFuVEVQOUpmTXdNMmR0dGxpMGJVTTlOcUszVGVHNUJNY0NPTndKRWtSNmIzZW5DMEtVRDlhbzlpUTFWa0M?oc=5",
-        "t:gerald jerry james mattson"
+        "t:gerald jerry james mattson",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UM0JEbVlFT2NIcW44ZWs0ZjBYeG5nMzdOU3hjd0g4LVJpUmRmRzVUMlhkbWN2Z2JXTlh5LXpVeUtuU05xT3ZwWk9DekRnT1BhV2ZWR3V1MG9XbHNRS2VlallHVFp1dXpJdnNmNUdBOHhHTlFL?oc=5",
+        "t:gerald jerry james mattson obituary sep 24 2026",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kVXFSVWNtcGFOTmpPY01La0JiMkdvQWhVblZQQzkyQ1VGb0tvcXZRSmxlSFJJc1ltQkJCSVZtTzZsRnYzUW4tbVY2SjdBVkdxX1NfOUh5d0lnN1FRa0FrM1RHUEdfdw?oc=5",
+        "t:eric doc mckinney",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWllMUhtTzl1cXhLRllMQ0Fra2JDcldoY2FOZ29rNktTcnhfTzZfZk9SdmUtRFFaQmlCbkdTYXlyRGpwX0tGWTVBZGl6Y1pOWWoxY1pEMFpFeU45MkpzeE9oR2dXUzJsMkxIOS1IVWY2OW9RYWx6ODQtNjV0UnJveXJhLWFidGtUQU9hbjVUekRxMkZJbThDcVRHWHlRQQ?oc=5",
+        "t:keyser commercial real estate named a 2026 arizona top workplace and earns nine additional culture excellence and industry awards",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1ZjcXhuUHI4WjNDUGlMYzdIZS01ZTJ5dmF4bFQ5cXlSTExaMTEwU3NMOHA1cFMyVFY2Ul9hbFJ5NkZXaHJJTzFUWWdGN1ZZaDlvZ2tfNU12OGRXZGJLTV85RlhYUXdpTjB5dzhucVJtOHlrNkMzTVdjUElvenpYeHdQUQ?oc=5",
+        "t:andrea lynn manning obituary 2026 carrollton mo bittiker funeral homes llc carrollton",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkd1RHg3UFZJYjlIWDNCbVRzdmU5UTZhRUhsX1VwcmREX3ladGVIb2JXUlJJclptWlRBalVBX09rOUo4NFZLamhsMkdSRy1LQTdIWWhhUWo3bTFLV21ybHpMVG1UNXE2Q2hheUdWRVBkUjU1QkcxZVZVTFRhTjdsQg?oc=5",
+        "t:william b bill ryan jr obituary 2026 orland park il robert j sheehy sons funeral home"
       ]
     },
     "clearlyderm": {
-      "lastCheckedAt": "2026-09-28T19:53:29.855Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.876Z",
       "seenLinks": []
     },
     "harbor-path": {
-      "lastCheckedAt": "2026-09-28T19:53:30.075Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.988Z",
       "seenLinks": []
     },
     "hawaii-cancer-care": {
-      "lastCheckedAt": "2026-09-28T19:53:30.214Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.091Z",
       "seenLinks": []
     },
     "vivent-health": {
-      "lastCheckedAt": "2026-09-28T19:53:29.872Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.833Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lMkJQTUhtWnFwMm4xVG9DdWFIdDBPRmpReThMbmZubXA2QnVaN3o4NUFqajJjbjJkTExkYkJCcDBpY1F6cnBWajgyWk5BXzlYOEd2UFdTd3Q4RUhvTUp0b3lOVHVVdVFkNWhLUEpYcWY?oc=5",
         "t:vivent health celebrates 40 years of hiv aids care in wisconsin wuwm 89 7 fm",
@@ -294,19 +316,23 @@
         "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0U4bTR2OUxmVjFJNjJTekhTaGZfUXRuRlBHLWRaUFZsWjZxT3M4TjU4cURyMDJ4Q2lpOTAzbUFwblNaWXZxMjBQT2hBanJJazgzU24zWjYzdDYtX1ZmSlRDbDFKdHFDTmFIR3E2S2NrT2FwckVqWnRRaTlINUVvRnNCYXRCeFFfMnRv?oc=5",
         "t:austin ems urges people to carry more narcan as overdoses grow harder to reverse",
         "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa1FpLU9BdEFIQXRVeW9KbjAtX0lpOTVKZkg5M1NJdWlPZ3k5cUN6UW4tSFdLY25uWjVhT0xxQXJGeDBlbVJCOVhOOGlKX3d1VktlbFI3VE9mYVFrcGN1VFp0U0hYZE8ycEJBYV9xWnFBSUpWMEprQ09SSkVHdzFvNy1xZnRXRVRDLTJQLTNJQjVGX3pfOHFzcjJwU2xva1pFb2x4WnR0dEpESEJhc3B2UUEyeTA2UW0wc0ZGQmhOamZuNS12MEM0MWdjRlhqYnNHWGdPZXcyZ3VBbTlKeUFHbA?oc=5",
-        "t:michigan men s health foundation offers free screenings early cancer detection at annual event"
+        "t:michigan men s health foundation offers free screenings early cancer detection at annual event",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnFtUzl2X1VlOGpLcmw4dnpURXZ5anBzbXFaNG9TdGU2LUlidUhxNHkxWmlUT2toSTJWQjVHSmtzSTBvRzMxRU5wd3c0dlQtVzZHZjVIbHVVQ3BxMnk1aE5yY3c5aEFucUR3VG9PeW1wRDEwNDVuMlJRYm5lUThCX1lfV1VsUC1UMkNZRU5KcC16QzJzOFF2QWhzZ1BjMWMxbm1mV2JTSEV2MWlrcHJHTWFmUk9DVmNOSW41eko4N0ZEckRfV3FRZG1BbktUT21sWWRGMnBhNHRPQQ?oc=5",
+        "t:federal hiv funding set to expire raising concerns for austin services",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtR19DekRoWUdYMWFLRmsxekJMb2tiajVRZnAtYmhWSHVDay1xdEhJdzFxWFZTbEJ6dHExNUdHVEdfbjRKZUw3S0hZZENwOGVKcVBSc0xaZkRVUWhaal9vVFhmdw?oc=5",
+        "t:queer news in brief affirmations honors local leaders give like dolly day calvin u same sex wedding case hits the michigan supreme court"
       ]
     },
     "harbors-home-health-hospice": {
-      "lastCheckedAt": "2026-09-28T19:53:30.381Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.174Z",
       "seenLinks": []
     },
     "granite-recovery-centers": {
-      "lastCheckedAt": "2026-09-28T19:53:30.435Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.237Z",
       "seenLinks": []
     },
     "health-catalyst": {
-      "lastCheckedAt": "2026-09-28T19:53:30.832Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.620Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV3dxa0lGemJnS3ppRFp3enVuQXl1Qldfc2hMWTUzd1VGck1WU3YzZmI0VU11T0RUakVJNzNnMWhham9UVFNTbk16UDRfRDJPRFpySmZocEJ0eUl6QmItbklTOU5NNHNOclk1dmlIOXRILU5obXMxWm1zelF5UVdNUGpPTWtRYlNacUdOLWR3aDEwblhhZWJsVGNERXlJLW5sWlFNSFRNWTdSU3BaWlBxdGV0Q0pPcXh6N3ZWbE13MTQ2NHNyLXR1RlBKa25RT2M?oc=5",
         "t:health catalyst sells vitalware to double down on ai strategy",
@@ -395,11 +421,11 @@
       ]
     },
     "wncap": {
-      "lastCheckedAt": "2026-09-28T19:53:30.609Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.362Z",
       "seenLinks": []
     },
     "frontier-behavioral-health": {
-      "lastCheckedAt": "2026-09-28T19:53:30.270Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.139Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1VwY1Z1OEZTdWdFWlNWMHp3elN4cHJydFNPXy01UjBxS0MtVjBxcHk5RDF0V0x5OElzcm9BQWozQzBYc1hHR1RUZzRrLWR2VEtsQVJ3ODhkT0N3SVVjMzRaWUxyTEM5dThrazh2c1BGU1Q0YzNiaWlQTUxtVWZHc3BHc2RQWWItSUJhYkZPWUpma2U1SEVDUU5NX1Q3dw?oc=5",
         "t:chas and frontier behavioral health break ground on one stop shop clinic the spokesman review",
@@ -442,23 +468,23 @@
       ]
     },
     "grassroots-labs": {
-      "lastCheckedAt": "2026-09-28T19:53:30.723Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.413Z",
       "seenLinks": []
     },
     "micare-path": {
-      "lastCheckedAt": "2026-09-28T19:53:30.939Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.975Z",
       "seenLinks": []
     },
     "safety-net-connect": {
-      "lastCheckedAt": "2026-09-28T19:53:31.066Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.357Z",
       "seenLinks": []
     },
     "biointellisense": {
-      "lastCheckedAt": "2026-09-28T19:53:31.114Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.428Z",
       "seenLinks": []
     },
     "osp": {
-      "lastCheckedAt": "2026-09-28T19:53:32.231Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.531Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcENvNGlZYTBQTXlMT1ItYXlJX244UTNuZnFabUlYSGFsWkk0UUZZeFVLN09nQWNPNlFLZ1k1cXJLVlJFcE1RQ2xrQTUtQjlpRFpSejI4cHV2dGMtZzNEakdPLTV6Tjl3dVBXVUR6dHlQYkxnMU9obWZMbHd0VGhib0pfUkl4bkdNUl9BWkk1ZUwxYk1rU2ZLcQ?oc=5",
         "t:eclaim solution expands denial management services across the united states",
@@ -469,11 +495,11 @@
       ]
     },
     "rthm": {
-      "lastCheckedAt": "2026-09-28T19:53:31.279Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.580Z",
       "seenLinks": []
     },
     "pear-suite": {
-      "lastCheckedAt": "2026-09-28T19:53:30.895Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.491Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbnI5YnVtWXlqeVZuLU9LNk5DcWxmOHpUdEtJLWJrUWgxMXJmbmNqc2JqOTd1U0dvSTBzNnV3Y0xZNTJaV3FoSnUtRzZoNHc3UFB6WGt3ZXZKdy1xcGFQVVI3WTJ5QkpsclU3cVhHcmhVVllqTHAtaGRuOWFVNkdFcHU5RjdJUXZhT0RZQ2lxNWg?oc=5",
         "t:inno fire awards 2026 eight hawaii companies that innovate pacific business news",
@@ -488,19 +514,21 @@
         "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd2pBLUlsWE5xeXhEb2hjeXMyNXQzOEY3U28zWk9TaGFxbFpWZktoSHkzbkxWb2ZPMVlrUUlZeTF3SUs0d0lqQlNrSWdCTmdoaFYwZVc2dVpKblFkVG4wQURVQlBOVldMMFdxeUdQQmpVTmkzeVF1YjZjbjk0NWV6bGpwSXQyZDRBX3YzWmQ5SXZicXMtX2x4Q1czZ3l4NUR5aWE2R2xGSXhiMjZPMjhTdDY5a0o2TUNHYmZlSTFSNGZKUFR4WV9SdkNod0hZQUJxbS1wRUhCS2xMVFA0NXltU3ZHdk5XTGNuajhyWFZPWmwtNTVMTDZHTEZsdjg?oc=5",
         "t:related to this article",
         "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbE5pYkd4a3dFSGkyY25NVjVhSU10ckZ0X2tIY2xsU09CMzI0V0F4cmxqR0N0b0U2U3JoTjNMbkZTZTRXU0lrZHozc1N2ck10NzBNa3VaUmdzM0hzOFRBcjBnZ25wTFFTU2NmZVkwWFBDdjhmci1fZ3V4eURudUM0S1dtZWZzVVotZS1FT3dOc3BnMDhnWUtXbmlHXzR1N21QeE9aN2stSE9zRGtFZ3Vhc2FTM1EzUQ?oc=5",
-        "t:pear suite emphasizes community health workforce and care gap focus"
+        "t:pear suite emphasizes community health workforce and care gap focus",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEg1eWZuRGNvdW96V0ZYUktEN2dlOVllaExORXVoY3g1ZUxtdWF2U2pFZzBELXRYejE4bzMyS09Ybll4eTNaTzJGN3NPX1d1WElWbWxxX3NqSmExaUVTLWt6cjFKWDd3T0JkMVJZdzc0UTFQeWZnMmpxNHRLVVpwYzgtNXdONGE3WjZXVlljN0gxMlRORGF0bnByVkZCM3FoSEkwempKRm1SZVNnckx5WEFQd05iZVdoSFVGbQ?oc=5",
+        "t:enable ventures closes 50 million fund focused on disability inclusive technology"
       ]
     },
     "fiton-health": {
-      "lastCheckedAt": "2026-09-28T19:53:31.398Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.654Z",
       "seenLinks": []
     },
     "cloudticity": {
-      "lastCheckedAt": "2026-09-28T19:53:31.445Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.690Z",
       "seenLinks": []
     },
     "vim": {
-      "lastCheckedAt": "2026-09-28T19:53:31.040Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.147Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmpCN1FIU1JydEU1QWVpNW5BWjJzRWVPM3FfOW8wSW5aYmRsQUc2MTEzYXdiOWlzNlNYa3RWa3FzM2dmWi1aMzBYdDBzQWFPWnVIbG42SDBIZDZNd3FYSXpEZlkwdWVhc2JQal9iOXp6eG9pTFhLZUNGTUdqR25QajFIaTJ6Y1lzQ3FUVGFtTHRzSzNaaEMzZ3dJM0JlX1o1YXfSAacBQVVfeXFMT1UxdHdjZXlXNlAtUGg4b18zcVdjcEFyazJ3dm1rTC02LVFPRzZEVkthaUxNaFZFU2VWdVNVUDZTNUY3UWFxOFl2WGJGcWI4MmJmR1FhMmRvMXphRWNWMXFyVFc5N0JiUk9HYnVYb3RWZE9obE9kTUowZzl3N1Z4TkU1eTBQOEphUkFNV2g0azRzdmNLRXFhX3VJajF0Ung2WGoxOGEtWGM?oc=5",
         "t:john newman stepping down as head of vim hilton head island wsav tv",
@@ -557,14 +585,14 @@
       ]
     },
     "telehealthdocs": {
-      "lastCheckedAt": "2026-09-28T19:53:28.801Z",
+      "lastCheckedAt": "2026-09-29T18:21:29.914Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMENuU0IzcTgtMEVPYkhFVkhJZWVUcVQtQkRsamNPLXc0b3VzWnZQcFhPNWd3dXhRSUVKSkV0R0lxOWNQMnZsQl8yUmNhTEp6OEhDVkpBb0g2d2w1NTlraDBFQ01RdWU4ak9NdzREdTVFUWUtQmtRcTdmT1lCdkZ4WXk3anBfV1JPUGpxWXVIR19pX3loVWxremVhcVFtM1FQeTdSZ2RIR3FEbk1GSDdjdjZZOVYxN0NQakFyNy1xeTUzOW82UEdLVDlXRnZ2VjR0bzFDYXJ5aE1Kek5NanJ4Rg?oc=5",
         "t:docs sound alarm on imaging delays amid health system s troubling teleradiology transition"
       ]
     },
     "henderson-behavioral-health": {
-      "lastCheckedAt": "2026-09-28T19:53:28.308Z",
+      "lastCheckedAt": "2026-09-29T18:21:29.628Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMirgJBVV95cUxNNGRFODQzYUFTaGxjQlU3bkhkRmRscWhlYlBRLUdnOXFyU2NVWktoaGl6LTlHOTdBTU5ZNmlUSzdyYTRrR1U0RVY2ZkNSeFU2M1hGTEh1MDFTNTIzNFRqcUNGQlFqdldJQ0Z1U0xkcUNlQzlseDdiZ19BOFJTZUtabjZydmVyVU1SSWRucHMtbTJDVjcyU0k1S08xOGpUWGFScGRiaUN0OFhONVJUVjR2cllONi1NU0ZOaElwNXA1SEpyTmJJRjh1SkczU1dJYU1yVFI1TFlEaWx4cC1SN01ycmc2SF9UdExwU0RBS2p2d0phMTI5YmJNcEs0NjctVmFpeXgxWDdEeDc5OHhRSjVnT0EyLWd1bGxHcXJiNnM4eUlmVXc1c2x5Q3Y5bVNZdw?oc=5",
         "t:galleria fort lauderdale to present the poppy project pop up living garden to support henderson behavioral health s veteran services september 10 november 10 florida hospital news and healthcare rep",
@@ -577,7 +605,7 @@
       ]
     },
     "enable-dental": {
-      "lastCheckedAt": "2026-09-28T19:53:29.339Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.127Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRTVfVE1nQ2FsUlJ2TnhFNXZTQW9CSUU4b1pPVlJnbUJaR0RlSTAtbjRDTUU5ejZqQlQyaTJuNjU1OFRaWm9Yai1KcmZHUU9fMGg2bTZrdGR1WnM5NjhtZnczVlAydnUzTVh5Ty1RS012aVBkX3RQeVNPd1BIMENCREM1aEthWHAySk8tcUVualNFekQtNEFhdjBnZkNpWDBsVy0wYm5fT0dyRUlZb2psQlR4RUNLSERHX01JTmg5TE1GeTJMREluUjVrS20yV2FNSFN6NDdyRlJESjFlNTkyTDg0NjBfeFZVRFVqUkQ2ZzZDQQ?oc=5",
         "t:european commission opens first formal antitrust investigation in the medical devices sector",
@@ -600,14 +628,14 @@
       ]
     },
     "podimetrics": {
-      "lastCheckedAt": "2026-09-28T19:53:30.025Z",
+      "lastCheckedAt": "2026-09-29T18:21:31.020Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fMDZLUmVRX3lJRnpOY2VWc01NTDB4UW9GaFJRbGlsZWhqYVlhY2xaVVBpN1BscEhaRGVHN3pkS0VMMV9HV1k2VUlFSDdNT29FRHUwSjdsODRLOWNGczBhVEVDR3BTQmNCVGdXUzNZOG1RckotcWJRVF9R?oc=5",
         "t:foot ulcer sensors market"
       ]
     },
     "clay-county-hospital": {
-      "lastCheckedAt": "2026-09-28T19:53:29.673Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.434Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PcnBsaTVRdHRGb0Fqd2pOdzQ0a29pWjk0eGhXZWQ1bzBJdmVFZHBBVXk1UTJmc1R0WDNFZkNmOEpQemE4YVNJRHAxWExZekhwZnowOTNmcm9vaDV4emJBUG15M0stQlp1eC1JOTFqaw?oc=5",
         "t:sharon ann gray flora il",
@@ -620,7 +648,7 @@
       ]
     },
     "oura": {
-      "lastCheckedAt": "2026-09-28T19:53:34.178Z",
+      "lastCheckedAt": "2026-09-29T18:21:30.828Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3MDVoNnFHbUhWdjFuTkpTdUhCRkJCdHRhVUkwLVotZmZuVGJmd0R0VVl3MGtPbEE2d3JaQjc3SDRnSnBXSkRaSG9hU25FQzdYN2RZT3hoejE4Q3l4ODE4Y1pn?oc=5",
         "t:how the 2026 world cup shifted members sleep stress and activity across the globe",
@@ -707,27 +735,45 @@
         "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFktNzJVa1FDN3JOT29Eek5wX3pVaGxRV1c2UTNTZl9DODZSamNINWhidjljZXRlZGF3eDFiMHZuQ0p3R29QSkZDbU5mc1FWYUFvTGpfRHVwWVFHdGgxQlVPem53eHhidVdQZXZ6SkR6RU94eldOUVNqdmItdXJ1UWp2a1NHWDVWclVPbTY1dXFCMGJ3ZVdyQWZvelVCZw?oc=5",
         "t:can oura s smart rings really be worth 15bn",
         "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMDhWRy1JbnpEX095dXVyc2tON01Pc0hsaXZCUGR3blNmbnRYN1VEVWtrTE5xazlwVENqSGl0ejFuaUxHMEZxdldET1Z5NlF3SzFobjdENGV5ZVRUNXMzRk1Kd0RHTFVObnNvem1LUzB3M0NlLURMVEZtSmV3RGt1QURxZTlFUQ?oc=5",
-        "t:we ve tested the best oura ring alternatives and there s one i d recommend over all the rest right now"
+        "t:we ve tested the best oura ring alternatives and there s one i d recommend over all the rest right now",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE5Pa3pYUi1ZWFBxRV9aRVFXRnRsVDRBdUxIMDF4cnF0TVkxS0FXWFpaVmhVeG0tTUtaYXhLbzhvRHFXUldRWWtGdXdQUHY4WnJISjhSTDg1a1N3ZVJPTEVJOUgyT3owbWJCWkNPV1RYTnR0dw?oc=5",
+        "t:smart ring maker oura delays its ipo citing market uncertainty",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRjhPczhRWEkxcTJFWlExRXFHU3htOGVnUlRaWnh5NjVwTkdjSEJTNnlDVjF3ek55S3NVbWxnRm1qMWYyY2E4S3FhYldpOEpDVThMNmxsdU15NDdsRkxleHVyZERMM0l0ckhQSUJyTkc1VmtBRjBWUExVNURic0Z6THl2aXBvejFySldhM2pPXzljYTRudGJOMElSRUozTjjSAaQBQVVfeXFMTnd3UnBHa2RRSUhYVVdwQjN2VFA2aEQ5M2dYU01NUHdrTTkzMHEzc2g5czE4U1F4TEtrUWlGYkttdVdCb3NQTmxIdGJaOUVNQ25ESDNsZy1FZzNCQmY0Y1p5cXlsMHAyZmYySVlNSDdBSFN1WElfT1lNVjBWVnJBMUpLZlBoRXpBVHNibXNIZWhTZE1DSXpYcHBNTmlCaTdSdmJtUVE?oc=5",
+        "t:smart ring maker oura postpones ipo due to market uncertainty",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUt5V19wbkExakV3MUdDaXdyZkdoMkFENzk2ZXBabTdCVVUwa2pFOHUyT252SWYxSWRyMnVWZkJrTjF3OVdHck4xWWlJRTJ2UmVBVUQyaEVWeFZmalVFS3ZaSjg2WmNxcjRsUFdWUWR2NXl1TXE1WDl3M0pXdjY4dXRSWk10VVFuaGNYTnlpd0F5Nk5zWThubWpEZHN4NDBibTk0?oc=5",
+        "t:oura becomes latest us ipo hopeful to delay listing as market jitters deepen",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUFBFM2hkUkhtaEhhVklZVzhId0Z4aU5kN1FwdTZXMG1tSExpNjNZVVhtdU1wUHQzanBUSmxFWDMxWWRZakNwRTJPazlEUEpQdEFoZW9QR3lTdGRSUWY3bWZRMU5SVVc4UHhQcA?oc=5",
+        "t:smart ring maker oura delays 2 billion ipo",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxONTVLWnczNDRNSzllY1Zqbll1UEdXMlFIOVhVVHdPdzNMLUMyMlJ5aGl4YThtbjNsUENQUG9KNWQtQ0ctT1BCaklFNVB6WEE0dUdTYl9Ya2FpTUdaNGFpb1k5QzNJNVNaVVZuckZ4d3R3TFAyaFlVam9pd3RweFpfeDVMNmlIWWN2VVlmMjFIOEI0eW9JRDdrNQ?oc=5",
+        "t:my oura ring governs my life it drives my wife mad",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUk8zQ1FvR1FvdEVoVkxCeTJ3MG9JcWV6UmFMbG9DRXVyVTkzYzV3V0ZrU21xejFNYmczU0tJd05RZWY4Y3RtUHlBTFVYeEJjYnp5MUFrMU5vLUw0MmE4T0E1N3ZkVXM4SXNyYnRscWQyR2FFYzNHYW9qa0lKZGRFX3V3?oc=5",
+        "t:oura postpones ipo over market uncertainty",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWxOMks3TXZRTFJ3VGt0MFJQbnMzdW5EdlNneFJZZEhkbjNZcGlHa0ttaS1odzJGaEd0MW5scTRDQnNiZ1k5YUJDT1JXdGVjcmlXbFA1c0pkUTNJZ0EyRnZOT1ZNUm4zdUVGLWtJRTNscGVSTjF1aENkVndNbmxSRktUanBnbnYycUZmMmNYTllsOUxSMlFLR2R3M1RCcmZOb3Naa1QzV21kTTNGN1djMl9WeXJlQQ?oc=5",
+        "t:smart ring maker oura postpones ipo blames market uncertainty"
       ]
     },
     "parallel-ent-allergy": {
-      "lastCheckedAt": "2026-09-28T19:53:30.564Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.231Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkF1VFc3aF90ZWd2SlFHeHhpR0hSb0dReWktRnprMzZyd2V1dU5ySGtiMzhzSHFZcDRCOTRmQjhxc0g2ZEV1TXlRZVhSZzNTeGxfc1dyWVd0RnVpTUlnVkRIY1VDNVhSZ0V4OXVIZy1LU3Q4R0k3c1NnUTVEaUpaZTcwMXY5YVFO?oc=5",
-        "t:meyer names hockstein as delaware s first surgeon general"
+        "t:meyer names hockstein as delaware s first surgeon general",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQXRkLVFMQ2FFUFlyVjdIbFMyWGt3c255SVc1ZGpIX01xeEk1WURvWVFLVG1zUHgxajhNQ3gtcFFIYVAxbjB6TjBSbUtQNXhXOGxZX3E4TjFsQlZUQzBFd2NTa01zdjhaNEtrVTB5LTVpVnRWejB2MDg1SnhINGUzcV8yZ0gtYjRybkYyNzN1cEpKZHBTa2c?oc=5",
+        "t:delaware s first surgeon general to headline jefferson life sciences lecture"
       ]
     },
     "scarlet-plus": {
-      "lastCheckedAt": "2026-09-28T19:53:30.768Z",
+      "lastCheckedAt": "2026-09-29T18:21:32.273Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOFRmQ3FfaVBVVmxMcDFCQ3dXZjUtTUphYVlxN0hsN2hiTkFmY0ZuRHdmcFJ3V0xuTTA4aGhUMFlZeE9pOW1DUnRxQVJfc3ZoNXluOXFwRGxUbFVNbTBWWXp3OWN0WTl0aWg4bUhsUWU0SHlwOUxkZnI3bzZJMzlsTnoyNGw4eVlnZmxfT0N2MUhlT2tLZDZwVjhYd1VqTzV0MHk3TDZleDJtVG9HNjdkQzBvT0dkdFRDUmpZY042Sm8tSjZjcWlxNzdvMTMxU3Azam1LVzJfY1V4RlA1MlFNdFA0M1NBMDAxOXZMM2VBanlWTGZqbUZr?oc=5",
         "t:dog walking forecast triple digit feel for red paw afternoon evening good day on wtol 11",
         "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcGVxLTE3eWE0QjY0QndtQXd6WWJHQlY3dnB0eFl4Wko0SXFvS0JUOVNUb01Ob1VnY09lSXk0djkyU0Y0ZTAtcXZxOEY4UEx5QWt6YU8xXzM3bVYxX01jXzBPU0RaRHM?oc=5",
-        "t:renewed tv shows 2026 find out which series will return for another season"
+        "t:renewed tv shows 2026 find out which series will return for another season",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGI4REVQemNxZ2tRMVdranVRV0xPZEtHU2VVTmVnRHBnSmVHSmd6dUhTYl9OVG03S25qTFJKWDYxS3I0ZU00VHA2elQ2UVNkVGVYRGZraXNpb1NXZm1vMkpXTEpsczYtc01vWlU0UDU2U0hvWG9CSmdmYkdPQjRPa1Q0WV9qd2pGekJZS3dPOGNiYi00eFpLbkpMLXo2UVRRQVZwd0RiYXg?oc=5",
+        "t:pokemon go mega gyarados raid guide weaknesses best counters"
       ]
     },
     "red-rover-health": {
-      "lastCheckedAt": "2026-09-28T19:53:31.232Z",
+      "lastCheckedAt": "2026-09-29T18:21:33.392Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkU4a2N2T2ZsTmtRd2JNR3RwejZ3VEExd3lNSUFrbHE0TXNGN0Z1OWR5TER1VE5uekZzMHI0azY3RmxaTlgzcnlIOUE0M3FyTG1Rek55d0pVTi1BVUZVeDdMdWtLZEowRGVDZ3NCclJOYXdhTENIRklyZW9MRHViTmQxRE84amhOcHZ6VDFBVFk5OVZQdGdN?oc=5",
         "t:inovalon ust and axiom systems join 1uphealth s partner program",
@@ -738,11 +784,13 @@
         "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTFsUWwyck8ySERVMk80X0ZjR0hFQWpYLUN2NWtyUHZFNUU3Y0NyM0Jwa2hRZUllaFZ6VEUybzhDYWhFV2tMOUlZUFNpaFRpeDBPSkhiQVUtZFdVeDlicXFKejEwSWNWaElnQXpaanNrcEFva09XZHU2ZDcxeWRBSVdILS1oaHE1cUpSWVVHYXJsRDFfQWxVZmFuSmhsUlRtZXc?oc=5",
         "t:canopy joins oracle s partner program",
         "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDNBTmQzUnhodGFydjFsRmdUb0xtOUJ2ZFNsdVJPRmRsYXN4bHlSUkVDVlNkNkpVRGxiQ1lYV2M1S0RfVGRtUGQ0Zlc4MW1MVW5FazZ4ejlGOTdVcTRaWWpYeWZjQVZROTJkVVp5WjVsSGxqWUNJeDlYVlV1a1laeElXdVZCcmQtYktkaEM4aTdaSzE3elE?oc=5",
-        "t:oracle health and id me team to simplify secure access to health data"
+        "t:oracle health and id me team to simplify secure access to health data",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWw0NEVhWGJYZ1A1ejhadzdTUDRFZ1oyUDJLTEhvWnR5TGNOcnU3ZGZMeFBoYmhPUVRsT1BvQmFYaWp0SHdFSVE0WU9tbm0yZERQaTBrWEpkRDA5dEVlNzhQVlZUdy1zYmMwM1d2YVJmWGVrUlZCSWoyMnRxdlVvOFBCLTVwSXBvNlJfVFVJQldwT3BMTUtPZEZBWEI2bC10dVE?oc=5",
+        "t:oracle health id me to collaborate on controlled substance provider credentialing"
       ]
     },
     "netsmart": {
-      "lastCheckedAt": "2026-09-28T19:53:28.646Z",
+      "lastCheckedAt": "2026-09-29T18:21:29.830Z",
       "seenLinks": [
         "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM0VpX3lJMkJqblM2Q0x6Y1V2a0ZERngyb2JDNVJMVEZJQTAtZzNER1J6Y3FPVS0tQTRNRG9wZXJLSW02aGZsSHdtMVBOTzY1eGVQV3Y0Q05vR2RnSXF3eFFXalZkaFNjMnAtWWhXNXJrM3BCTUYybXlDdkUzSG5IeG9ab09RNlktc2FoeXU1OTRfMW5OcURtMl9NMUFIenpkazFBQmVNZzBrR1BQSG1lYlJqazR6b2hPRUc1OWszd2VyVFlZUGRHZVBBbmVwc2J2Q2xzVDJ4SjlJZWFlODR0dlZsSQ?oc=5",
         "t:pacific clinics selects netsmart to advance connected community based care across california",
@@ -1119,7 +1167,30 @@
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWFkSGN0NWpCN2xsNlRySTNjYWVNVThhcmlVUkRfN0FJQmhfXzRLbFVnNkpSS21wcGwxbzBkeEVZZ0NkQkJSMUJJbUNoNFdkVzVxb1lRUC0yUlIzd2lSNWRUY0dtWGJqN3hFdDBCYnhjOHBzMFlZYnVvOHhIam1FbWJBdTJtOGRDT3FHRzY0UExkRXfSAZgBQVVfeXFMTXdEZ3BlMk5SbnlOYUg1TGFWWWZiaHJNc2dHWEdDSVE5bHFZQlJFN3owaWZKVGx0VU41NC1LRV9EWEo3M014R3hvWUNEeENmTDVERmhBWVlxMWJGSmExR3VEVnE2SXZhMVE3V3NQVjllOEc4U3hBMDI5TFk1NXNMSFE0ZzdlM3RLcTNkdVBNS2FZbDFueXRaUU0?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVC0tdklLSElxMGE2ZXRwX19FVDg0LVlHNDhBNVJEb3B5M0JDWWhJWXVEVmJzMHVfZ1RHNHM3dVJveXUyRVJwWGZvNmRhLXJma3dMWndabWZEUU5Sa3J0LXlTdFp0UXloZXM1N1NveG5GandBQjFLVFRZRTdkeDVweVJ4QnRWenRzcEhTU3NNdFN5RGNYRmFBWERSZFhTZVJxTkktb19jelpIWlVTeVhKZ2xvOG5BTXNQbVJFdHY0VQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHMyT19NSWgyWGd4NGRfaTFIaHFHOG96OFpQX0NPYzdrQ3VZQjR0OGxWUE5IVV9aSHQ4QW1CZnNYbE51bVVMM2drV29RVzBEZlZKSUdFMlRGTVpEbFA0R0dVdzFXZDZPaHZVU0tJbFlVaXBLbDJ5WURteGpRZENtbVd5VXNfMTZLY1QzYWdOSkFuZUNiTUFiR09hTE9tRy1BWVB1a2tWbWtTQ2NKN3ZYeV9OSk1HSU9fdHBOQTAxRlhlWWR4S3hTWWswMUtNY0ox?oc=5"
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHMyT19NSWgyWGd4NGRfaTFIaHFHOG96OFpQX0NPYzdrQ3VZQjR0OGxWUE5IVV9aSHQ4QW1CZnNYbE51bVVMM2drV29RVzBEZlZKSUdFMlRGTVpEbFA0R0dVdzFXZDZPaHZVU0tJbFlVaXBLbDJ5WURteGpRZENtbVd5VXNfMTZLY1QzYWdOSkFuZUNiTUFiR09hTE9tRy1BWVB1a2tWbWtTQ2NKN3ZYeV9OSk1HSU9fdHBOQTAxRlhlWWR4S3hTWWswMUtNY0ox?oc=5",
+    "https://www.hipaajournal.com/wpm-pathology-laboratory-salina-regional-health-settlement/",
+    "https://www.hipaajournal.com/citrix-zero-day-vulnerabilities-exploited-sept-2026/",
+    "https://www.hipaajournal.com/astrana-health-data-breach/",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1Z0bjZUWEI1ZnlMdTNGZElhWXUxMEQxbEVMemFJa3ExUHVzZzAwSEhYRmhzQVMxV0hDMU05enFkVi13S2Z3bUxicEp4MEpKcTFsdnV1eVNZWmQtTVF5ZWo1a1JyTHpKb1lzMlNvVHFSZHlfSk5JOUY4Mzc1SmZQZXpCWnpGTkY3N1dZejQtN0wxZEwwV0t5a1lZX1RMSE5CdHBKdnExa2cxYWlqY1VuaEw1SlE1QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXJuTnk4VWk1M0t2QmhmdTN3ZnJ1WlliOU5QZmpjZElPSXB4NVE2X1cwcmdoQk1XR2UybmNKUlpwWlQ3Zm5SMm9YNEpCOUsxdVdicTJLem1aZElZSW0tWkc5OFg2TlhQT2ZjYUJ0TVg5VmdfYTFfM3hiamwzbjQ5MFgtRFlaQXV6NXhMLVMwUEZFNUtyamdiZXd3?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTWFvSVRzMEFweDRqNE5DMGZaNHowWXlSdFZOc1VTU0l6WWxkOGNRZkF4dE9KUWZld0JXcnlCSnhMYm9vYzY4TEhUOGstLXU0ZU5vTGVjRXVwSGZDa25XLWJTNldqbUlVV2x4ZTZwc0JFTWkyWG83a0JFTEJBMVItTy1rdGw4cG1FTjRDSWxvT3UzVGxSTllZZkgxb09maUVlVTFvZlR2UkpWOTdmdmlURzk2S1lITEhHWEJiYUJPT0EyMU95eHozM083VkZUdWFmWmZB?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXd5WGZqYjdKZVB0RHBENHJEcU9TYkNzWTh0YmlONVVrcXcwdThoRVd5ai1haXhFNl9DVEtEcmp0TDlkQl9neGNNQzdlLWhjenI0R21UZkM2YUpxeWFvX2VsT3RfQm9aWEh6UHY4REVMZDlNQ2RrU3hBWnRtaXVCOW4xajVZeWY2VXpHd2duckd3VUxjdXZWcnFJcElKS2ktUUVfNWRpXzJiZXdYVGVWQWZyQkI3MmliSWd4RVlrQ1VXdl8tUFRUdHRpeDFxLXZQTldr?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wU2tncUdLVDY4ZmVmd2JXSTZDdDZxYkdMNjV3MU5nM0pvLU9lMXBab2hUakdkZmJjX21jRnp6eE4wZFB3b2I0OWNDRlI4aFBiSklxWFhsSkpuRlRoRFZvWkhmejBGSHRoZGZPbU5jUHB4VnM?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVBaeEpma1VsQ1ZhaGJabEdPeFNrclg1NXhGOHlSVm9IUEoyMkJjU01JNUIzM0tsRlJ0cmZrM0Z6RjhscFd6VjNNSU1tS0dqZ3J5TElZZjdnX0ZTaWtSUDdLVVlEQldRclZKTWh4SXQ2TGo5YWV4OFhKRHF5SVhIQ0gyZ2ZVS2lvT1NNTEFURG82Rkk3ZUR6Yk85VHB3VEEzbllMcTZ3?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqLXIyMjlyTmI0MkZIeXNhaWlrQXdVZ0llQXhQM3NoUWtWMUJmZ1hZaXp4SVNVbHk2aE1RckUyNHBUeVdTZ2gzNmx6RGlQaWhHZEZaekc1SHlFeERBa3hCUDdYVThqSDZkU0RRdnNlMkhqSDVmQXpLNm1oMzJnSU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNnRhb21VUndEMVNkajc5S1RTTXRTT290U0EzRGFya2hQQXA3Wk51QVdONzJjMm5QMlFKc3I3cklBandRaUM2MldsaGQwcGlhN1ZOWlVlUHBtMlozd0xPUFhrNExwSkxIanNGd28yVkl4ZTYzN1RKQzJicXYyRzRhTDJn?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUtncXpmSXFZbmFMa1VCd2Fja2NycWxlWDNTY3hRdXBoZEpEN1JGNWtkcGlkQmtqcFFVRHROSWN2TjZKQllXZGhpeVY5NHRpSEd4bm5TV0t5R0cwX00zdWZKVWNtRkI4aXZTMDhOOC01M1NrVWVaTHdpRnBOUDBES9IBgAFBVV95cUxOVUtncXpmSXFZbmFMa1VCd2Fja2NycWxlWDNTY3hRdXBoZEpEN1JGNWtkcGlkQmtqcFFVRHROSWN2TjZKQllXZGhpeVY5NHRpSEd4bm5TV0t5R0cwX00zdWZKVWNtRkI4aXZTMDhOOC01M1NrVWVaTHdpRnBOUDBESw?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pcTM0VEo0YWlDSWRTUlFJMUlVc3RaY3k3RndraXVkWlpoajVvZ19wNDR4SXhGTWFyRl94TEIxOTFoU0I1enFFOXNzSncyZVF3UF9IVWhOeDNoSTkzSjhqanR3?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0RncGUyTlJueU5hSDVMYVZZZmJock1zZ0dYR0NJUTlscVlCUkU3ejBpZkpUbHRVTjU0LUtFX0RYSjczTXhHeG9ZQ0R4Q2ZMNURGaEFZWXExYkZKYTFHdURWcTZJdmExUTdXc1BWOWU4RzhTeEEwMjlMWTU1c0xIUTRnN2UzdEtxM2R1UE1LYVlsMW55dFpRTdIBmAFBVV95cUxNd0RncGUyTlJueU5hSDVMYVZZZmJock1zZ0dYR0NJUTlscVlCUkU3ejBpZkpUbHRVTjU0LUtFX0RYSjczTXhHeG9ZQ0R4Q2ZMNURGaEFZWXExYkZKYTFHdURWcTZJdmExUTdXc1BWOWU4RzhTeEEwMjlMWTU1c0xIUTRnN2UzdEtxM2R1UE1LYVlsMW55dFpRTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxONFNrXzlDQldRTEgza1dlOUVjNUNXbV9hdmJSV3NqdnNfbDI1S2QxWVRPNWJNRWlNTzRrejhSX042VVdIZ2UzQ3BYZUZ3MWtFLVd6SFhieE50Qm45TWNmWE1La3FEYU5qeEtNSmFTYldmenp6cHI5Y1ZOZUI2R0JMN1hMMnJaQ0ZzNHFFOVBnQUEzU3ZUR0FPZHVmbjE?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2MxYjRNUjVCZWI1Q2I1UFZwRWNId1ZOYlNoTG9pdE9NYzRJN3VGQkc3Q0FNelZ6NkxmbXV3ZWtxdEhlSFBPaWtMNXJkTWpjbENWSk83WEJwTmJxRDhWLVk5OHBmdWJ3RjJqQzBGeVhhR1c5MVlxNmtWbXdCcTFPLWd2aV9LZUhRVDBWQjhFN1BJUWJDWlplLQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUXdjb0NqMzI4alpWMmZOU0lVczhJS3RHODNVa3BrTF9VNmxOOUtLSFB2dHFGU3ZGeFNhR0NlWl9WN3BXUHJkR2R3a3d2Q2Noczktc0ZVRWZ3UVdOWmlTZFRRRVVLTG9lUFJWc2Rjbm9iVEo1b3hieUNtbnFHbVFhWERrZlJHVTRld3FtZTFkVFZTWVhMaDQ3U1VSUHRoQUlYaWFERDVZOUE5dFg0T3lma3lUU1ZEWTU5bGhVYVpVUmlIbHl4TVZYM2JCbHg?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWRtOURabHNMNXFubS00bnB1QXotaXlkbkwyUldvVFhoem5fRnVSQVROcFlWLUhHYkMzeHZ4SmZHOGVkYXZQN2ctS1EydEljejZ6eHh0ZzRpNDdQUXpXSjFLaEhOSmpsUDJFMVBXZ0NpYm9odXlIbi1FSUhyalZYWEprYmNsd2NxX2Z2M09qSmFycDRx0gFWQVVfeXFMTTcyVUZIQXcwTDZsbjRCMUpRZTVHNWhNUGFOeE8xWXowUXJKR1BVV08tVDhGcFYzMlhrelYzWlhsOHh1amdaX0gyM3ZCR1N6TTk2SW11dUE?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmNUaHk2YWVrbFRjdmpXSkVzRGh0V3M3eXpNdUl0WGx0NlBEMUVfVjFweWNMTEtfd1hnOWxZLTZLOEE1eXpHb2dJYVNhb3NIQUFkdDl3MVdNMVhfcFhPZ0FVSnRtdWFMUXZGeG1wei1ISHZ0QS1jaDcyeUltMlp2ZFJfMlQ4cVVCbXZPWlZaZG5aeUxmZW5NNFlkNA?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXJTcDVPazE0UUFSNFROYXQyZUNWVy1EdVlMdHFOY3BIaERkTE5kTmxaMklqRFBJNWRlZUVmYlBsVEZaWnZRNU1yQTNyWVZtbTRlcl9aMVlYQVgxUkZOdy1OdHFibXdJTlFyWU1Ha0lVMGZDSmFLZ1gwdGFsck51bjNjNHdmUU9vZDcxQjVQQUxicmtxV1N1MENUR2NvbzlFQ0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWYxdU9pbDlJdWRWMndRNXg3aW9BLXlTX0JQVjBaUHdyRzVoaHVzY1hIeWxNRVlsQnlxS215bFVjNXZ6c3daTUVMd3Y2YkhTczhtZnpZZFJhZXdlZ2NST2tNM0FMaGN0VlFubkliR0NNaWoyeVRvc29uZXBxS3Ztc3RjcXhJLW5YbFE?oc=5",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMy0tampndG5IYURXWEUzd0Nabm14dzl2YXJOOV8zbGZvTTRESmQwNmhvVXBULWJuSE4tQ0gwa05RT3M5RUxPOHhsdEc0bWItblViNXhERHkzTWFfMXVBOWNzcWVENkZOQ0R5aVpnZWZnTU5IWXJOMktSbzJjNWU3Zm55aFZ0UkNUQWVTN3lCU0dTTFhBMkM3bTlQSXAzSW9DM3lBenVYSUl5Q0M1T2UwNkYycnM0UzQtbjFnQ0owdzJTM0ZESzRxejRVWHFOTmZLdHlFZlV6OFZZYXNXa2xhZk02cmY0VERGWFhRb09TbjNGQQ?oc=5",
+    "https://www.federalregister.gov/documents/2026/09/29/2026-19946/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and"
   ],
-  "lastIndustryRunAt": "2026-09-28T19:53:43.372Z"
+  "lastIndustryRunAt": "2026-09-29T18:21:49.214Z"
 }
