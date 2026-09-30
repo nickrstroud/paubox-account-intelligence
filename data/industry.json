@@ -1,5 +1,40 @@
 [
   {
+    "id": "YnJlYWNoLXNldHRsZW1lbnQv",
+    "title": "The Mental Health Association Data Breach Settlement Agreed",
+    "link": "https://www.hipaajournal.com/mental-health-association-data-breach-settlement/",
+    "sourceName": "The HIPAA Journal",
+    "publishedAt": "2026-09-30T11:49:50.000Z",
+    "analyzedAt": "2026-09-30T18:13:27.699Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "The Mental Health Association (Chicopee, MA) agreed to a data breach settlement, indicating a significant security incident at a behavioral health organization.",
+    "pauboxAngle": "A settlement at a behavioral health provider signals the segment faced a material breach. Paubox customers in behavioral health should review email-driven attack vectors and ensure inbound security coverage is adequate to prevent similar incidents.",
+    "play": "inbound_security",
+    "segments": [
+      "behavioral_health"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bmFuY2UtZGF0YS1icmVhY2gv",
+    "title": "DC Medicaid Agency Notifies 400,000 Beneficiaries About Data Exposure",
+    "link": "https://www.hipaajournal.com/district-columbia-department-health-care-finance-data-breach/",
+    "sourceName": "The HIPAA Journal",
+    "publishedAt": "2026-09-30T11:34:16.000Z",
+    "analyzedAt": "2026-09-30T18:13:27.699Z",
+    "updateType": "security",
+    "relevance": 2,
+    "summary": "DC Medicaid agency exposed personal and protected health information for approximately 400,000 beneficiaries due to an online data exposure.",
+    "pauboxAngle": "A 400k+ breach at a state Medicaid agency demonstrates the risk of uncontrolled PHI exposure. Healthcare organizations handling Medicaid data should evaluate whether DLP controls are in place to prevent sensitive beneficiary information from leaving via email.",
+    "play": "dlp",
+    "segments": [
+      "health_system",
+      "revenue_cycle"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "ONlRUazJTVzExZFVFP29jPTU",
     "title": "DOJ Puts FCA Target On Health Data Security Lapses",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWRtOURabHNMNXFubS00bnB1QXotaXlkbkwyUldvVFhoem5fRnVSQVROcFlWLUhHYkMzeHZ4SmZHOGVkYXZQN2ctS1EydEljejZ6eHh0ZzRpNDdQUXpXSjFLaEhOSmpsUDJFMVBXZ0NpYm9odXlIbi1FSUhyalZYWEprYmNsd2NxX2Z2M09qSmFycDRx0gFWQVVfeXFMTTcyVUZIQXcwTDZsbjRCMUpRZTVHNWhNUGFOeE8xWXowUXJKR1BVV08tVDhGcFYzMlhrelYzWlhsOHh1amdaX0gyM3ZCR1N6TTk2SW11dUE?oc=5",
