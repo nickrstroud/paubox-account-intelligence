@@ -1,8 +1,6 @@
 name: Daily Paubox signal run
 
 on:
-  schedule:
-    - cron: "0 13 * * *" # 9am ET daily
   workflow_dispatch: {} # allows manual trigger from the Actions tab for demos
 
 permissions:
